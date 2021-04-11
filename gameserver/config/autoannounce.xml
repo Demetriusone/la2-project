@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<announce delay="240" repeat="120">
+		<message text="Welcome to Varash  Lineage 2 server" />
+	</announce>
+</list>

@@ -1,0 +1,313 @@
+[08.04.21 18:27:45] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:20:42] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:20:52] SUCCESS admin[268481667] admin_list_announcements
+[08.04.21 19:21:01] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:21:04] SUCCESS admin[268481667] admin_list_announcements
+[08.04.21 19:21:06] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:21:07] SUCCESS admin[268481667] admin_enchant
+[08.04.21 19:21:08] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:21:12] SUCCESS admin[268481667] admin_play_sounds
+[08.04.21 19:21:14] SUCCESS admin[268481667] admin_play_sound T18_F
+[08.04.21 19:27:31] SUCCESS admin[268481667] -> 31829 Adventure Guildsman admin_admin
+[08.04.21 19:27:32] SUCCESS admin[268481667] -> 31829 Adventure Guildsman admin_show_moves
+[08.04.21 19:27:37] SUCCESS admin[268481667] -> 31829 Adventure Guildsman admin_tonpc 29019
+[08.04.21 19:27:53] SUCCESS admin[268481667] -> 31829 Adventure Guildsman admin_admin
+[08.04.21 19:27:54] SUCCESS admin[268481667] -> 31829 Adventure Guildsman admin_show_moves
+[08.04.21 19:27:57] SUCCESS admin[268481667] -> 31829 Adventure Guildsman admin_show_html teleports/raid.htm
+[08.04.21 19:27:57] SUCCESS admin[268481667] -> 31829 Adventure Guildsman admin_show_html teleports/raid/raid_special.htm
+[08.04.21 19:27:59] SUCCESS admin[268481667] admin_move_to 183409 114824 -8020
+[08.04.21 19:29:58] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:29:59] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 19:30:08] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 19:30:09] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 19:30:12] SUCCESS admin[268481667] admin_move_to 213896 -115436 -1644
+[08.04.21 19:30:51] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:30:52] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 19:30:53] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 19:30:55] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 19:30:59] SUCCESS admin[268481667] admin_show_html teleports.htm
+[08.04.21 19:31:02] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 19:31:03] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 19:31:07] SUCCESS admin[268481667] admin_move_to 153569 142075 -12737
+[08.04.21 19:31:42] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:31:44] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 19:31:46] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 19:31:47] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 19:32:03] SUCCESS admin[268481667] admin_move_to 16323 213139 -9359
+[08.04.21 19:35:02] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:35:04] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 19:35:05] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 19:35:06] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 19:35:13] SUCCESS admin[268481667] admin_move_to 115213 16623 10080
+[08.04.21 19:36:29] SUCCESS admin[268481667] -> 29025 Baium admin_admin
+[08.04.21 19:37:16] SUCCESS admin[268481667] -> 29025 Baium admin_admin
+[08.04.21 19:37:19] SUCCESS admin[268481667] -> 29025 Baium admin_show_moves
+[08.04.21 19:37:24] SUCCESS admin[268481667] -> 29025 Baium admin_show_html teleports/raid.htm
+[08.04.21 19:37:26] SUCCESS admin[268481667] -> 29025 Baium admin_show_html teleports/raid/raid_special.htm
+[08.04.21 19:37:29] SUCCESS admin[268481667] admin_move_to 183409 114824 -8020
+[08.04.21 19:40:03] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:40:07] SUCCESS admin[268481667] admin_invul
+[08.04.21 19:40:10] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:40:16] SUCCESS admin[268481667] admin_invul
+[08.04.21 19:40:22] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:40:24] SUCCESS admin[268481667] admin_invis
+[08.04.21 19:40:32] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:40:35] SUCCESS admin[268481667] admin_invis
+[08.04.21 19:42:36] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:42:38] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 19:42:40] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 19:42:42] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 19:42:44] SUCCESS admin[268481667] admin_move_to 55312 219168 -3223
+[08.04.21 19:43:07] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:43:12] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 19:43:14] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 19:43:15] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 19:43:53] SUCCESS admin[268481667] admin_move_to 16323 213139 -9359
+[08.04.21 19:47:32] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:47:35] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 19:47:38] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 19:47:39] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 19:47:45] SUCCESS admin[268481667] admin_move_to 153569 142075 -12737
+[08.04.21 19:49:00] SUCCESS admin[268481667] admin_admin
+[08.04.21 19:49:03] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 19:49:06] SUCCESS admin[268481667] admin_show_html teleports/freya.htm
+[08.04.21 19:49:08] SUCCESS admin[268481667] admin_move_to 114712 -114811 -11210
+[08.04.21 20:08:58] SUCCESS admin[268481667] admin_admin
+[08.04.21 20:11:42] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 20:11:44] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 20:11:46] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 20:11:48] SUCCESS admin[268481667] admin_move_to 55024 17368 -5412
+[08.04.21 20:12:01] SUCCESS admin[268481667] -> 29014 Orfen admin_admin
+[08.04.21 20:12:09] SUCCESS admin[268481667] -> 29014 Orfen admin_show_moves
+[08.04.21 20:12:10] SUCCESS admin[268481667] -> 29014 Orfen admin_show_html teleports/raid.htm
+[08.04.21 20:12:11] SUCCESS admin[268481667] -> 29014 Orfen admin_show_html teleports/raid/raid_special.htm
+[08.04.21 20:12:13] SUCCESS admin[268481667] admin_move_to 183409 114824 -8020
+[08.04.21 20:19:11] SUCCESS admin[268481667] admin_admin
+[08.04.21 20:19:13] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 20:19:14] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 20:19:16] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 20:19:25] SUCCESS admin[268481667] admin_move_to 213896 -115436 -1644
+[08.04.21 20:19:38] SUCCESS admin[268481667] admin_admin
+[08.04.21 20:19:44] SUCCESS admin[268481667] admin_show_html ride.htm
+[08.04.21 20:19:47] SUCCESS admin[268481667] admin_wr
+[08.04.21 20:24:06] SUCCESS admin[268481667] admin_admin
+[08.04.21 20:24:08] SUCCESS admin[268481667] admin_show_html ride.htm
+[08.04.21 20:24:09] SUCCESS admin[268481667] admin_ur
+[08.04.21 20:24:14] SUCCESS admin[268481667] admin_admin
+[08.04.21 20:24:15] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 20:24:18] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 20:24:19] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 20:24:21] SUCCESS admin[268481667] admin_move_to 183409 114824 -8020
+[08.04.21 20:27:38] SUCCESS admin[268481667] admin_admin
+[08.04.21 20:27:39] SUCCESS admin[268481667] admin_server admserver.htm
+[08.04.21 20:27:39] SUCCESS admin[268481667] admin_server_shutdown
+[08.04.21 20:27:42] SUCCESS admin[268481667] admin_server_restart 10
+[08.04.21 20:40:04] SUCCESS admin[268481667] admin_admin
+[08.04.21 20:40:06] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 20:40:07] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 20:40:10] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 20:40:12] SUCCESS admin[268481667] admin_move_to 115213 16623 10080
+[08.04.21 20:40:22] SUCCESS admin[268481667] -> 29025 Baium admin_admin
+[08.04.21 20:40:25] SUCCESS admin[268481667] -> 29025 Baium admin_show_moves
+[08.04.21 20:40:26] SUCCESS admin[268481667] -> 29025 Baium admin_show_html teleports/raid.htm
+[08.04.21 20:40:26] SUCCESS admin[268481667] -> 29025 Baium admin_show_html teleports/raid/raid_special.htm
+[08.04.21 20:40:28] SUCCESS admin[268481667] admin_move_to 183409 114824 -8020
+[08.04.21 20:40:50] SUCCESS admin[268481667] admin_admin
+[08.04.21 20:48:25] SUCCESS admin[268481667] admin_admin
+[08.04.21 20:48:26] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 20:48:29] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 20:48:31] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 20:48:35] SUCCESS admin[268481667] admin_move_to 213896 -115436 -1644
+[08.04.21 20:50:12] SUCCESS admin[268481667] admin_admin
+[08.04.21 20:50:17] SUCCESS admin[268481667] admin_show_spawns
+[08.04.21 20:50:34] SUCCESS admin[268481667] admin_spawn_monster 29019
+[08.04.21 20:51:38] SUCCESS admin[268481667] admin_admin
+[08.04.21 20:51:39] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 20:51:40] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 20:51:41] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 20:51:43] SUCCESS admin[268481667] admin_move_to 213896 -115436 -1644
+[08.04.21 20:52:43] SUCCESS admin[268481667] -> 29019 Antharas admin_admin
+[08.04.21 20:52:45] SUCCESS admin[268481667] -> 29019 Antharas admin_kill
+[08.04.21 20:53:21] SUCCESS admin[268481667] -> 29019 Antharas admin_admin
+[08.04.21 20:53:24] SUCCESS admin[268481667] admin_delete
+[08.04.21 20:56:37] SUCCESS admin[268481667] admin_admin
+[08.04.21 20:56:38] SUCCESS admin[268481667] admin_server admserver.htm
+[08.04.21 20:56:39] SUCCESS admin[268481667] admin_server_shutdown
+[08.04.21 20:56:42] SUCCESS admin[268481667] admin_server_restart 10
+[08.04.21 21:00:02] SUCCESS admin[268481667] admin_admin
+[08.04.21 21:00:04] SUCCESS admin[268481667] admin_show_spawns
+[08.04.21 21:00:09] SUCCESS admin[268481667] admin_spawn_monster 29019
+[08.04.21 21:00:13] SUCCESS admin[268481667] -> 29019 Antharas admin_admin
+[08.04.21 21:00:15] SUCCESS admin[268481667] -> 29019 Antharas admin_kill
+[08.04.21 21:00:30] SUCCESS admin[268481667] -> 29019 Antharas admin_admin
+[08.04.21 21:00:31] SUCCESS admin[268481667] -> 29019 Antharas admin_server admserver.htm
+[08.04.21 21:00:31] SUCCESS admin[268481667] -> 29019 Antharas admin_server_shutdown
+[08.04.21 21:00:34] SUCCESS admin[268481667] -> 29019 Antharas admin_server_restart 10
+[08.04.21 21:06:22] SUCCESS admin[268481667] admin_admin
+[08.04.21 21:06:32] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 21:32:22] SUCCESS admin[268481667] admin_admin
+[08.04.21 21:32:24] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 21:32:29] SUCCESS admin[268481667] admin_tonpc 25319
+[08.04.21 21:33:13] SUCCESS admin[268481667] admin_admin
+[08.04.21 21:33:14] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 21:33:19] SUCCESS admin[268481667] admin_tonpc 25269
+[08.04.21 21:34:02] SUCCESS admin[268481667] -> 25269 Beast Lord Behemoth admin_admin
+[08.04.21 21:34:05] SUCCESS admin[268481667] -> 25269 Beast Lord Behemoth admin_kill
+[08.04.21 21:39:00] SUCCESS admin[268481667] admin_admin
+[08.04.21 21:39:02] SUCCESS admin[268481667] admin_server admserver.htm
+[08.04.21 21:39:03] SUCCESS admin[268481667] admin_server_shutdown
+[08.04.21 21:39:05] SUCCESS admin[268481667] admin_server_restart 10
+[08.04.21 21:41:54] SUCCESS admin[268481667] admin_admin
+[08.04.21 21:41:55] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 21:41:57] SUCCESS admin[268481667] admin_show_html teleports/location/gracia.htm
+[08.04.21 21:41:58] SUCCESS admin[268481667] admin_move_to -183443 205834 -12902
+[08.04.21 21:42:15] SUCCESS admin[268481667] -> 32603 Tepios admin_admin
+[08.04.21 21:42:16] SUCCESS admin[268481667] -> 32603 Tepios admin_show_moves
+[08.04.21 21:42:18] SUCCESS admin[268481667] -> 32603 Tepios admin_show_html teleports/raid.htm
+[08.04.21 21:42:24] SUCCESS admin[268481667] -> 32603 Tepios admin_show_html teleports/raid/raid_special.htm
+[08.04.21 21:42:25] SUCCESS admin[268481667] admin_move_to 183409 114824 -8020
+[08.04.21 21:49:03] SUCCESS admin[268481667] admin_admin
+[08.04.21 21:49:05] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 21:49:06] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 21:49:08] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 21:49:10] SUCCESS admin[268481667] admin_move_to 115213 16623 10080
+[08.04.21 21:54:40] SUCCESS admin[268481667] admin_admin
+[08.04.21 21:54:41] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 21:54:45] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 21:54:46] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 21:54:47] SUCCESS admin[268481667] admin_move_to 183409 114824 -8020
+[08.04.21 21:55:31] SUCCESS admin[268481667] admin_admin
+[08.04.21 21:55:32] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 21:57:21] SUCCESS admin[268481667] admin_admin
+[08.04.21 21:57:25] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 21:57:37] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 21:57:38] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 21:57:40] SUCCESS admin[268481667] admin_move_to 213896 -115436 -1644
+[08.04.21 21:59:27] SUCCESS admin[268481667] admin_admin
+[08.04.21 21:59:29] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 21:59:48] SUCCESS admin[268481667] admin_tonpc 29062
+[08.04.21 22:01:19] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:01:39] SUCCESS admin[268481667] admin_itemcreate
+[08.04.21 22:01:50] SUCCESS admin[268481667] admin_create_item 7267 1
+[08.04.21 22:02:53] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:02:55] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 22:03:02] SUCCESS admin[268481667] admin_tonpc 31385
+[08.04.21 22:06:46] SUCCESS admin[268481667] -> 29042 Inferno Golem admin_admin
+[08.04.21 22:06:54] SUCCESS admin[268481667] -> 29042 Inferno Golem admin_show_moves
+[08.04.21 22:06:56] SUCCESS admin[268481667] -> 29042 Inferno Golem admin_show_html teleports/raid.htm
+[08.04.21 22:06:57] SUCCESS admin[268481667] -> 29042 Inferno Golem admin_show_html teleports/raid/raid_special.htm
+[08.04.21 22:06:59] SUCCESS admin[268481667] admin_move_to 213896 -115436 -1644
+[08.04.21 22:09:08] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:09:12] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 22:09:16] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:09:17] SUCCESS admin[268481667] admin_char_manage
+[08.04.21 22:09:18] SUCCESS admin[268481667] admin_show_characters 0
+[08.04.21 22:09:19] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_character_list edsfsdf
+[08.04.21 22:09:22] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_character_actions
+[08.04.21 22:09:28] SUCCESS admin[268481667] admin_teleportto edsfsdf
+[08.04.21 22:09:37] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:09:43] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 22:09:59] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:10:06] SUCCESS admin[268481667] admin_char_manage
+[08.04.21 22:10:08] SUCCESS admin[268481667] admin_show_characters 0
+[08.04.21 22:10:09] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_character_list edsfsdf
+[08.04.21 22:10:22] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_character_actions
+[08.04.21 22:10:24] SUCCESS admin[268481667] admin_teleportto edsfsdf
+[08.04.21 22:10:27] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:10:37] SUCCESS admin[268481667] admin_char_manage
+[08.04.21 22:10:41] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:10:53] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_show_moves
+[08.04.21 22:10:56] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_admin
+[08.04.21 22:10:58] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_char_manage
+[08.04.21 22:11:10] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_show_characters 0
+[08.04.21 22:11:12] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_character_list edsfsdf
+[08.04.21 22:11:15] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_character_actions
+[08.04.21 22:11:22] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_quests edsfsdf
+[08.04.21 22:11:37] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_admin
+[08.04.21 22:11:41] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_show_moves
+[08.04.21 22:11:44] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_show_html teleports/raid.htm
+[08.04.21 22:11:45] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 22:11:47] SUCCESS admin[268481667] admin_move_to 213896 -115436 -1644
+[08.04.21 22:15:22] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:15:24] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 22:15:47] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 22:15:48] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 22:15:50] SUCCESS admin[268481667] admin_move_to 213896 -115436 -1644
+[08.04.21 22:16:09] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:16:10] SUCCESS admin[268481667] admin_server admserver.htm
+[08.04.21 22:16:11] SUCCESS admin[268481667] admin_server_shutdown
+[08.04.21 22:16:13] SUCCESS admin[268481667] admin_server_restart 10
+[08.04.21 22:32:16] SUCCESS admin[268481667] admin_recall edsfsdf
+[08.04.21 22:36:00] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_admin
+[08.04.21 22:36:01] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_show_moves
+[08.04.21 22:36:02] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_show_html teleports/raid.htm
+[08.04.21 22:36:06] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 22:36:08] SUCCESS admin[268481667] admin_move_to 213896 -115436 -1644
+[08.04.21 22:37:51] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:37:52] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 22:37:57] SUCCESS admin[268481667] admin_tonpc 31385
+[08.04.21 22:38:42] SUCCESS admin[268481667] admin_recall edsfsdf
+[08.04.21 22:39:28] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_admin
+[08.04.21 22:39:36] SUCCESS admin[268481667] -> edsfsdf[268481535] admin_open
+[08.04.21 22:39:45] SUCCESS admin[268481667] -> 31385 Heart of Volcano admin_admin
+[08.04.21 22:39:47] SUCCESS admin[268481667] -> 31385 Heart of Volcano admin_show_moves
+[08.04.21 22:39:49] SUCCESS admin[268481667] -> 31385 Heart of Volcano admin_show_html teleports/raid.htm
+[08.04.21 22:39:53] SUCCESS admin[268481667] -> 31385 Heart of Volcano admin_show_html teleports/raid/raid_special.htm
+[08.04.21 22:39:55] SUCCESS admin[268481667] admin_move_to 183409 114824 -8020
+[08.04.21 22:44:19] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:44:20] SUCCESS admin[268481667] admin_server admserver.htm
+[08.04.21 22:44:21] SUCCESS admin[268481667] admin_server_shutdown
+[08.04.21 22:44:24] SUCCESS admin[268481667] admin_server_restart 12
+[08.04.21 22:45:22] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:45:23] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 22:45:26] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 22:45:27] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 22:45:28] SUCCESS admin[268481667] admin_move_to 115213 16623 10080
+[08.04.21 22:46:29] SUCCESS admin[268481667] -> 29025 Baium admin_admin
+[08.04.21 22:46:30] SUCCESS admin[268481667] -> 29025 Baium admin_show_moves
+[08.04.21 22:48:11] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:48:13] SUCCESS admin[268481667] admin_server admserver.htm
+[08.04.21 22:48:14] SUCCESS admin[268481667] admin_server_shutdown
+[08.04.21 22:48:16] SUCCESS admin[268481667] admin_server_restart 10
+[08.04.21 22:53:13] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:53:18] SUCCESS admin[268481667] admin_show_html pledgemanage.htm
+[08.04.21 22:53:22] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:53:32] SUCCESS admin[268481667] admin_gmshop
+[08.04.21 22:53:36] SUCCESS admin[268481667] admin_show_html gmstore/quest.htm
+[08.04.21 22:53:38] SUCCESS admin[268481667] admin_buy 300542
+[08.04.21 22:53:44] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:53:46] SUCCESS admin[268481667] admin_gmshop
+[08.04.21 22:53:48] SUCCESS admin[268481667] admin_show_html gmstore/quest.htm
+[08.04.21 22:53:49] SUCCESS admin[268481667] admin_buy 300539
+[08.04.21 22:54:01] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:54:02] SUCCESS admin[268481667] admin_gmshop
+[08.04.21 22:54:05] SUCCESS admin[268481667] admin_show_html gmstore/quest.htm
+[08.04.21 22:54:06] SUCCESS admin[268481667] admin_buy 300530
+[08.04.21 22:54:16] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:54:18] SUCCESS admin[268481667] admin_gmshop
+[08.04.21 22:54:19] SUCCESS admin[268481667] admin_show_html gmstore/quest.htm
+[08.04.21 22:54:20] SUCCESS admin[268481667] admin_buy 300540
+[08.04.21 22:54:24] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:54:25] SUCCESS admin[268481667] admin_gmshop
+[08.04.21 22:54:28] SUCCESS admin[268481667] admin_show_html gmstore/quest.htm
+[08.04.21 22:54:29] SUCCESS admin[268481667] admin_buy 300541
+[08.04.21 22:55:29] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:55:34] SUCCESS admin[268481667] admin_itemcreate
+[08.04.21 22:55:49] SUCCESS admin[268481667] admin_create_item 3865 10
+[08.04.21 22:55:55] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:55:56] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 22:56:53] SUCCESS admin[268481667] admin_tonpc 13001
+[08.04.21 22:57:55] SUCCESS admin[268481667] -> 22839 Maluk Warlord admin_admin
+[08.04.21 22:57:58] SUCCESS admin[268481667] -> 22839 Maluk Warlord admin_invis
+[08.04.21 22:58:37] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:58:38] SUCCESS admin[268481667] admin_view_petitions
+[08.04.21 22:58:40] SUCCESS admin[268481667] admin_admin
+[08.04.21 22:58:42] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 22:58:43] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 22:58:44] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 22:58:50] SUCCESS admin[268481667] admin_move_to 183409 114824 -8020
+[08.04.21 23:07:43] SUCCESS admin[268481667] admin_admin
+[08.04.21 23:07:44] SUCCESS admin[268481667] admin_show_moves
+[08.04.21 23:07:45] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[08.04.21 23:07:48] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[08.04.21 23:07:50] SUCCESS admin[268481667] admin_move_to 213896 -115436 -1644

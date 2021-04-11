@@ -1,0 +1,47 @@
+[01.04.21 00:44:48] SUCCESS Osobennyu[268482632] admin_admin
+[01.04.21 00:44:49] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[01.04.21 00:44:51] SUCCESS Osobennyu[268482632] admin_show_html reload.htm
+[01.04.21 00:44:52] SUCCESS Osobennyu[268482632] admin_admin
+[01.04.21 00:44:53] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[01.04.21 00:44:54] SUCCESS Osobennyu[268482632] admin_show_html reload.htm
+[01.04.21 00:45:01] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[01.04.21 00:45:02] SUCCESS Osobennyu[268482632] admin_server_shutdown
+[01.04.21 00:45:05] SUCCESS Osobennyu[268482632] admin_server_shutdown 20
+[01.04.21 20:09:38] SUCCESS Osobennyu[268482632] admin_admin
+[01.04.21 20:10:05] SUCCESS Osobennyu[268482632] admin_char_manage
+[01.04.21 20:10:07] SUCCESS Osobennyu[268482632] admin_show_characters 0
+[01.04.21 20:11:07] SUCCESS Osobennyu[268482632] admin_admin
+[01.04.21 20:11:10] SUCCESS Osobennyu[268482632] admin_char_manage
+[01.04.21 20:11:19] SUCCESS Osobennyu[268482632] admin_show_characters 0
+[01.04.21 20:11:22] SUCCESS Osobennyu[268482632] -> vaxip[268488420] admin_character_list vaxip
+[01.04.21 20:11:25] SUCCESS Osobennyu[268482632] admin_goto_char_menu vaxip
+[01.04.21 20:57:34] SUCCESS Osobennyu[268482632] admin_admin
+[01.04.21 20:57:35] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[01.04.21 20:57:37] SUCCESS Osobennyu[268482632] admin_server_shutdown
+[01.04.21 20:57:42] SUCCESS Osobennyu[268482632] admin_server_restart 60
+[01.04.21 23:23:24] SUCCESS Osobennyu[268482632] admin_admin
+[01.04.21 23:23:26] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[01.04.21 23:23:28] SUCCESS Osobennyu[268482632] admin_server_shutdown
+[01.04.21 23:23:31] SUCCESS Osobennyu[268482632] admin_server_restart 20
+[01.04.21 23:37:41] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[01.04.21 23:37:43] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_server admserver.htm
+[01.04.21 23:37:46] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_server_shutdown
+[01.04.21 23:37:49] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_server_restart 20
+[01.04.21 23:45:28] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[01.04.21 23:45:32] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_server admserver.htm
+[01.04.21 23:45:33] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_server_shutdown
+[01.04.21 23:45:36] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_server_restart 10
+[01.04.21 23:52:12] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[01.04.21 23:52:14] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_moves
+[01.04.21 23:52:28] SUCCESS Osobennyu[268482632] admin_tonpc 22857
+[01.04.21 23:56:23] SUCCESS Osobennyu[268482632] admin_admin
+[01.04.21 23:56:26] SUCCESS Osobennyu[268482632] admin_show_moves
+[01.04.21 23:56:33] SUCCESS Osobennyu[268482632] admin_tonpc 22857
+[01.04.21 23:58:17] SUCCESS Osobennyu[268482632] admin_admin
+[01.04.21 23:58:24] SUCCESS Osobennyu[268482632] admin_gmshop
+[01.04.21 23:58:32] SUCCESS Osobennyu[268482632] admin_show_html gmstore/gear/jewels.htm
+[01.04.21 23:58:33] SUCCESS Osobennyu[268482632] admin_buy 9917
+[01.04.21 23:58:43] SUCCESS Osobennyu[268482632] admin_admin
+[01.04.21 23:58:46] SUCCESS Osobennyu[268482632] admin_gmshop
+[01.04.21 23:58:49] SUCCESS Osobennyu[268482632] admin_show_html gmstore/gear/weapons.htm
+[01.04.21 23:58:57] SUCCESS Osobennyu[268482632] admin_buy 9923

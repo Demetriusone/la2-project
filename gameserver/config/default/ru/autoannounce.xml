@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<announce delay="240" repeat="120">
+		<message text="Приветсвуем вас на сервере Lineage 2" />
+	</announce>
+</list>

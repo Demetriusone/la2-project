@@ -1,0 +1,176 @@
+[11.04.21 00:03:15] SUCCESS admin[268481667] -> 29068 Antharas admin_admin
+[11.04.21 00:03:21] SUCCESS admin[268481667] -> 29068 Antharas admin_kill
+[11.04.21 00:03:49] SUCCESS admin[268481667] admin_admin
+[11.04.21 00:03:52] SUCCESS admin[268481667] admin_show_html ride.htm
+[11.04.21 00:03:54] SUCCESS admin[268481667] admin_wr
+[11.04.21 00:03:58] SUCCESS admin[268481667] admin_admin
+[11.04.21 00:04:06] SUCCESS admin[268481667] admin_show_html ride.htm
+[11.04.21 00:04:08] SUCCESS admin[268481667] admin_unride
+[11.04.21 00:04:56] SUCCESS admin[268481667] admin_admin
+[11.04.21 00:04:58] SUCCESS admin[268481667] admin_show_moves
+[11.04.21 00:05:15] SUCCESS admin[268481667] admin_recall 22222
+[11.04.21 00:05:23] SUCCESS admin[268481667] admin_recall 33333
+[11.04.21 00:05:31] SUCCESS admin[268481667] admin_recall 44444
+[11.04.21 00:07:15] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_admin
+[11.04.21 00:07:16] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_server admserver.htm
+[11.04.21 00:07:17] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_server_shutdown
+[11.04.21 00:07:27] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_server_restart 20
+[11.04.21 00:14:17] SUCCESS admin[268481667] admin_admin
+[11.04.21 00:14:18] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 00:14:26] SUCCESS admin[268481667] admin_server_shutdown
+[11.04.21 00:14:28] SUCCESS admin[268481667] admin_server_restart 20
+[11.04.21 00:23:05] SUCCESS admin[268481667] admin_admin
+[11.04.21 00:23:06] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 00:23:07] SUCCESS admin[268481667] admin_server_shutdown
+[11.04.21 00:23:10] SUCCESS admin[268481667] admin_server_restart 10
+[11.04.21 00:29:40] SUCCESS admin[268481667] -> 22222[268481884] admin_admin
+[11.04.21 00:29:44] SUCCESS admin[268481667] -> 22222[268481884] admin_invis
+[11.04.21 00:38:39] SUCCESS admin[268481667] admin_admin
+[11.04.21 00:38:49] SUCCESS admin[268481667] admin_char_manage
+[11.04.21 00:38:51] SUCCESS admin[268481667] admin_show_characters 0
+[11.04.21 00:38:52] SUCCESS admin[268481667] -> 22222[268481884] admin_character_list 22222
+[11.04.21 00:38:54] SUCCESS admin[268481667] admin_goto_char_menu 22222
+[11.04.21 00:39:06] SUCCESS admin[268481667] admin_admin
+[11.04.21 00:39:35] SUCCESS admin[268481667] -> 22222[268481884] admin_recall 22222
+[11.04.21 00:39:52] SUCCESS admin[268481667] -> 22222[268481884] admin_recall 33333
+[11.04.21 00:40:06] SUCCESS admin[268481667] -> 22222[268481884] admin_recall 44444
+[11.04.21 00:42:03] SUCCESS admin[268481667] admin_admin
+[11.04.21 00:42:06] SUCCESS admin[268481667] admin_invul
+[11.04.21 00:47:51] SUCCESS admin[268481667] -> 29068 Antharas admin_admin
+[11.04.21 00:47:53] SUCCESS admin[268481667] -> 29068 Antharas admin_kill
+[11.04.21 00:49:19] SUCCESS admin[268481667] admin_admin
+[11.04.21 00:49:19] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 00:49:22] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 00:49:23] SUCCESS admin[268481667] admin_server_shutdown
+[11.04.21 00:49:26] SUCCESS admin[268481667] admin_server_restart 10
+[11.04.21 00:56:04] SUCCESS admin[268481667] admin_admin
+[11.04.21 00:56:20] SUCCESS admin[268481667] admin_admin
+[11.04.21 01:03:58] SUCCESS admin[268481667] admin_admin
+[11.04.21 01:03:59] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 01:04:00] SUCCESS admin[268481667] admin_server_shutdown
+[11.04.21 01:04:04] SUCCESS admin[268481667] admin_server_restart 10
+[11.04.21 11:08:05] SUCCESS admin[268481667] admin_admin
+[11.04.21 11:08:14] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 11:08:16] SUCCESS admin[268481667] admin_show_html scripts.htm
+[11.04.21 11:08:21] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 11:08:25] SUCCESS admin[268481667] admin_show_html reload.htm
+[11.04.21 11:08:27] SUCCESS admin[268481667] admin_reload_htm
+[11.04.21 11:12:51] SUCCESS admin[268481667] admin_admin
+[11.04.21 11:12:51] SUCCESS admin[268481667] admin_admin
+[11.04.21 11:14:20] SUCCESS admin[268481667] admin_list_announcements
+[11.04.21 11:14:21] SUCCESS admin[268481667] admin_admin
+[11.04.21 11:14:22] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 11:14:24] SUCCESS admin[268481667] admin_show_html reload.htm
+[11.04.21 11:14:26] SUCCESS admin[268481667] admin_reload_htm
+[11.04.21 11:15:07] SUCCESS admin[268481667] admin_admin
+[11.04.21 11:15:08] SUCCESS admin[268481667] admin_gmshop
+[11.04.21 11:15:10] SUCCESS admin[268481667] admin_show_html gmstore/gear/weapons.htm
+[11.04.21 11:15:24] SUCCESS admin[268481667] admin_buy 9923
+[11.04.21 11:15:31] SUCCESS admin[268481667] admin_admin
+[11.04.21 11:15:32] SUCCESS admin[268481667] admin_gmshop
+[11.04.21 11:15:34] SUCCESS admin[268481667] admin_show_html gmstore/gear/weapons.htm
+[11.04.21 11:15:38] SUCCESS admin[268481667] admin_buy 9923
+[11.04.21 11:30:59] SUCCESS admin[268481667] admin_admin
+[11.04.21 11:31:00] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 11:31:01] SUCCESS admin[268481667] admin_show_html reload.htm
+[11.04.21 11:31:03] SUCCESS admin[268481667] admin_reload_htm
+[11.04.21 11:33:46] SUCCESS admin[268481667] admin_reload_htm
+[11.04.21 11:35:22] SUCCESS admin[268481667] admin_reload_htm
+[11.04.21 11:36:22] SUCCESS admin[268481667] admin_admin
+[11.04.21 11:36:23] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 11:36:25] SUCCESS admin[268481667] admin_show_html reload.htm
+[11.04.21 11:36:27] SUCCESS admin[268481667] admin_reload_htm
+[11.04.21 11:43:18] SUCCESS admin[268481667] admin_admin
+[11.04.21 11:43:19] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 11:43:20] SUCCESS admin[268481667] admin_server_shutdown
+[11.04.21 11:43:21] SUCCESS admin[268481667] admin_admin
+[11.04.21 11:43:22] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 11:43:24] SUCCESS admin[268481667] admin_show_html reload.htm
+[11.04.21 11:43:26] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 11:45:07] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 11:49:00] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 12:01:34] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 12:05:38] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 12:05:48] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 12:12:18] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 12:17:35] SUCCESS admin[268481667] admin_admin
+[11.04.21 12:17:36] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 12:17:39] SUCCESS admin[268481667] admin_show_html reload.htm
+[11.04.21 12:17:40] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 12:20:39] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 12:24:09] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 12:24:36] SUCCESS admin[268481667] admin_reload_config
+[11.04.21 12:28:22] SUCCESS admin[268481667] admin_reload_config
+[11.04.21 12:28:41] SUCCESS admin[268481667] admin_reload_config
+[11.04.21 12:29:25] SUCCESS admin[268481667] admin_admin
+[11.04.21 12:29:25] SUCCESS admin[268481667] admin_admin
+[11.04.21 12:29:33] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 12:29:35] SUCCESS admin[268481667] admin_show_html scripts.htm
+[11.04.21 12:29:44] SUCCESS admin[268481667] admin_sreload all
+[11.04.21 12:31:53] SUCCESS admin[268481667] admin_admin
+[11.04.21 12:31:54] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 12:31:56] SUCCESS admin[268481667] admin_show_html reload.htm
+[11.04.21 12:31:57] SUCCESS admin[268481667] admin_reload_config
+[11.04.21 12:32:39] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 12:33:52] SUCCESS admin[268481667] admin_admin
+[11.04.21 12:33:58] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 12:33:59] SUCCESS admin[268481667] admin_show_html reload.htm
+[11.04.21 12:34:00] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 12:35:37] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 12:37:14] SUCCESS admin[268481667] admin_admin
+[11.04.21 12:37:15] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 12:37:16] SUCCESS admin[268481667] admin_server_shutdown
+[11.04.21 12:37:24] SUCCESS admin[268481667] admin_server_shutdown 20
+[11.04.21 19:26:14] SUCCESS admin[268481667] admin_admin
+[11.04.21 19:26:16] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 19:26:17] SUCCESS admin[268481667] admin_show_html reload.htm
+[11.04.21 19:26:19] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:28:51] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:30:49] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:32:33] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:34:28] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:34:32] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:35:51] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:38:06] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:39:07] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:41:29] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:50:02] SUCCESS admin[268481667] admin_reload_announcements
+[11.04.21 19:50:05] SUCCESS admin[268481667] admin_admin
+[11.04.21 19:50:07] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 19:50:08] SUCCESS admin[268481667] admin_show_html reload.htm
+[11.04.21 19:50:09] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:52:23] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:54:46] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:59:17] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 19:59:20] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:00:25] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:01:03] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:03:42] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:03:44] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:03:59] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:08:44] SUCCESS admin[268481667] admin_admin
+[11.04.21 20:08:45] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 20:08:47] SUCCESS admin[268481667] admin_server_shutdown
+[11.04.21 20:08:48] SUCCESS admin[268481667] admin_admin
+[11.04.21 20:08:49] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 20:08:50] SUCCESS admin[268481667] admin_show_html reload.htm
+[11.04.21 20:08:51] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:13:18] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:20:05] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:21:25] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:32:01] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:32:52] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:36:19] SUCCESS admin[268481667] admin_admin
+[11.04.21 20:36:20] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 20:36:20] SUCCESS admin[268481667] admin_server_shutdown
+[11.04.21 20:36:22] SUCCESS admin[268481667] admin_admin
+[11.04.21 20:36:23] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 20:36:24] SUCCESS admin[268481667] admin_show_html reload.htm
+[11.04.21 20:36:25] SUCCESS admin[268481667] admin_reload_multisell
+[11.04.21 20:37:52] SUCCESS admin[268481667] admin_admin
+[11.04.21 20:37:57] SUCCESS admin[268481667] admin_itemcreate
+[11.04.21 20:38:05] SUCCESS admin[268481667] admin_create_item 57 2000000000
+[11.04.21 20:43:25] SUCCESS admin[268481667] admin_admin
+[11.04.21 20:43:26] SUCCESS admin[268481667] admin_server admserver.htm
+[11.04.21 20:43:28] SUCCESS admin[268481667] admin_server_shutdown
+[11.04.21 20:43:32] SUCCESS admin[268481667] admin_server_shutdown 15

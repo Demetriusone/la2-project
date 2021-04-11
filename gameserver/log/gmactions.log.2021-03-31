@@ -1,0 +1,387 @@
+[31.03.21 00:02:05] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:02:08] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 00:02:10] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 00:02:11] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 00:02:14] SUCCESS Osobennyu[268482632] admin_move_to 115213 16623 10080
+[31.03.21 00:02:38] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:02:40] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 00:02:43] SUCCESS Osobennyu[268482632] admin_show_html teleports/freya.htm
+[31.03.21 00:02:44] SUCCESS Osobennyu[268482632] admin_move_to 114712 -114811 -11210
+[31.03.21 00:03:10] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:03:34] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 00:03:36] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 00:03:38] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_80.htm
+[31.03.21 00:03:46] SUCCESS Osobennyu[268482632] admin_move_to 184542 -106330 -6304
+[31.03.21 00:05:10] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:05:20] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_itemcreate
+[31.03.21 00:05:27] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_create_item 57 999999999999
+[31.03.21 00:06:41] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:06:44] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 00:06:48] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 00:06:48] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 00:06:57] SUCCESS Osobennyu[268482632] admin_move_to 213896 -115436 -1644
+[31.03.21 00:07:24] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:07:44] SUCCESS Osobennyu[268482632] admin_show_spawns
+[31.03.21 00:07:54] SUCCESS Osobennyu[268482632] admin_spawn_monster 29028
+[31.03.21 00:08:36] SUCCESS Osobennyu[268482632] -> 29028 Valakas admin_admin
+[31.03.21 00:08:39] SUCCESS Osobennyu[268482632] -> 29028 Valakas admin_kill
+[31.03.21 00:09:26] SUCCESS Osobennyu[268482632] -> 29028 Valakas admin_admin
+[31.03.21 00:09:33] SUCCESS Osobennyu[268482632] admin_delete
+[31.03.21 00:09:41] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:09:45] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[31.03.21 00:09:46] SUCCESS Osobennyu[268482632] admin_server_shutdown
+[31.03.21 00:09:49] SUCCESS Osobennyu[268482632] admin_server_restart 10
+[31.03.21 00:10:52] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:10:55] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 00:10:57] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 00:11:00] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 00:11:02] SUCCESS Osobennyu[268482632] admin_move_to 213896 -115436 -1644
+[31.03.21 00:11:24] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:11:34] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 00:11:35] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 00:11:39] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_70.htm
+[31.03.21 00:11:43] SUCCESS Osobennyu[268482632] admin_move_to 123504 -23696 -3481
+[31.03.21 00:12:52] SUCCESS Osobennyu[268482632] -> 25269 Beast Lord Behemoth admin_admin
+[31.03.21 00:12:55] SUCCESS Osobennyu[268482632] -> 25269 Beast Lord Behemoth admin_kill
+[31.03.21 00:13:32] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:13:34] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[31.03.21 00:13:35] SUCCESS Osobennyu[268482632] admin_server_shutdown
+[31.03.21 00:13:38] SUCCESS Osobennyu[268482632] admin_server_restart 20
+[31.03.21 00:15:08] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:15:10] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 00:15:12] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 00:15:17] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 00:15:21] SUCCESS Osobennyu[268482632] admin_move_to 55024 17368 -5412
+[31.03.21 00:16:16] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:16:21] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[31.03.21 00:16:23] SUCCESS Osobennyu[268482632] admin_show_html reload.htm
+[31.03.21 00:16:36] SUCCESS Osobennyu[268482632] admin_reload_spawn
+[31.03.21 00:17:05] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[31.03.21 00:17:10] SUCCESS Osobennyu[268482632] admin_show_html scripts.htm
+[31.03.21 00:17:19] SUCCESS Osobennyu[268482632] admin_sreload npc
+[31.03.21 00:19:34] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:20:20] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 00:20:39] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 00:20:40] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 00:20:48] SUCCESS Osobennyu[268482632] admin_move_to -21610 181594 -5734
+[31.03.21 00:21:14] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:21:16] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 00:21:19] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 00:21:20] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 00:21:23] SUCCESS Osobennyu[268482632] admin_move_to 17723 108915 -6493
+[31.03.21 00:21:39] SUCCESS Osobennyu[268482632] -> 29006 Core admin_admin
+[31.03.21 00:21:41] SUCCESS Osobennyu[268482632] -> 29006 Core admin_show_moves
+[31.03.21 00:21:43] SUCCESS Osobennyu[268482632] -> 29006 Core admin_show_html teleports/epilogue.htm
+[31.03.21 00:21:46] SUCCESS Osobennyu[268482632] -> 29006 Core admin_show_html teleports.htm
+[31.03.21 00:21:48] SUCCESS Osobennyu[268482632] -> 29006 Core admin_show_html teleports/raid.htm
+[31.03.21 00:21:50] SUCCESS Osobennyu[268482632] -> 29006 Core admin_show_html teleports/raid/raid_special.htm
+[31.03.21 00:21:55] SUCCESS Osobennyu[268482632] admin_move_to 55312 219168 -3223
+[31.03.21 00:22:48] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:23:09] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 00:23:19] SUCCESS Osobennyu[268482632] admin_tonpc 29022
+[31.03.21 00:26:05] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 00:26:08] SUCCESS Osobennyu[268482632] admin_show_spawns
+[31.03.21 00:26:33] SUCCESS Osobennyu[268482632] admin_spawn_monster 29022
+[31.03.21 00:27:06] SUCCESS Osobennyu[268482632] -> 29022 Zaken admin_admin
+[31.03.21 00:27:15] SUCCESS Osobennyu[268482632] -> 29022 Zaken admin_open
+[31.03.21 00:27:28] SUCCESS Osobennyu[268482632] -> 29022 Zaken admin_admin
+[31.03.21 00:27:30] SUCCESS Osobennyu[268482632] -> 29022 Zaken admin_kill
+[31.03.21 00:28:13] SUCCESS Osobennyu[268482632] -> 29022 Zaken admin_admin
+[31.03.21 00:28:16] SUCCESS Osobennyu[268482632] admin_delete
+[31.03.21 07:02:46] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 07:03:10] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 07:03:14] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 07:03:16] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 07:03:19] SUCCESS Osobennyu[268482632] admin_move_to 55024 17368 -5412
+[31.03.21 07:04:18] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 07:04:21] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 07:04:25] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 07:04:31] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 07:04:40] SUCCESS Osobennyu[268482632] admin_move_to 153569 142075 -12737
+[31.03.21 07:05:10] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 07:05:38] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 07:05:42] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 07:05:43] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 07:05:47] SUCCESS Osobennyu[268482632] admin_move_to 20886 244088 11088
+[31.03.21 07:06:26] SUCCESS Osobennyu[268482632] -> 25603 Darion admin_admin
+[31.03.21 07:06:27] SUCCESS Osobennyu[268482632] -> 25603 Darion admin_show_moves
+[31.03.21 07:06:36] SUCCESS Osobennyu[268482632] -> 25603 Darion admin_show_html teleports/raid.htm
+[31.03.21 07:06:39] SUCCESS Osobennyu[268482632] -> 25603 Darion admin_show_html teleports/raid/raid_80.htm
+[31.03.21 07:06:41] SUCCESS Osobennyu[268482632] admin_move_to 152759 145949 -12588
+[31.03.21 07:07:07] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 07:07:09] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 07:07:11] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 07:07:17] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_60.htm
+[31.03.21 07:07:18] SUCCESS Osobennyu[268482632] admin_move_to 167152 53120 -4148
+[31.03.21 07:08:18] SUCCESS Osobennyu[268482632] -> 21020 Fallen Orc Shaman admin_admin
+[31.03.21 07:08:21] SUCCESS Osobennyu[268482632] -> 21020 Fallen Orc Shaman admin_show_moves
+[31.03.21 07:08:24] SUCCESS Osobennyu[268482632] -> 21020 Fallen Orc Shaman admin_show_html teleports/raid.htm
+[31.03.21 07:08:29] SUCCESS Osobennyu[268482632] -> 21020 Fallen Orc Shaman admin_show_html teleports/raid/raid_60.htm
+[31.03.21 07:08:32] SUCCESS Osobennyu[268482632] admin_move_to 113600 47120 -4640
+[31.03.21 07:09:10] SUCCESS Osobennyu[268482632] -> 25423 Fairy Queen Timiniel admin_admin
+[31.03.21 07:09:11] SUCCESS Osobennyu[268482632] -> 25423 Fairy Queen Timiniel admin_show_moves
+[31.03.21 07:09:15] SUCCESS Osobennyu[268482632] -> 25423 Fairy Queen Timiniel admin_show_html teleports/hf.htm
+[31.03.21 07:09:21] SUCCESS Osobennyu[268482632] admin_move_to 148447 110582 -3944
+[31.03.21 07:09:41] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 07:09:43] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 07:09:44] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 07:09:46] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 07:09:48] SUCCESS Osobennyu[268482632] admin_move_to 183409 114824 -8020
+[31.03.21 07:23:33] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 07:24:04] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 07:24:05] SUCCESS Osobennyu[268482632] admin_show_html teleports/clanhall/clanhall.htm
+[31.03.21 07:24:16] SUCCESS Osobennyu[268482632] admin_show_html teleports.htm
+[31.03.21 07:24:24] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 07:24:34] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_50.htm
+[31.03.21 07:24:36] SUCCESS Osobennyu[268482632] admin_move_to 75488 -9360 -2720
+[31.03.21 08:17:38] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 08:19:37] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 08:19:56] SUCCESS Osobennyu[268482632] admin_tonpc 29019
+[31.03.21 08:25:12] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 08:25:54] SUCCESS Osobennyu[268482632] admin_list_announcements
+[31.03.21 08:25:58] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 08:26:02] SUCCESS Osobennyu[268482632] admin_list_spawns
+[31.03.21 08:28:28] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 08:28:46] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 08:29:06] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 08:29:24] SUCCESS Osobennyu[268482632] admin_tonpc 29014
+[31.03.21 08:33:23] SUCCESS Osobennyu[268482632] -> 29014 Orfen admin_admin
+[31.03.21 08:33:27] SUCCESS Osobennyu[268482632] -> 29014 Orfen admin_show_moves
+[31.03.21 08:33:43] SUCCESS Osobennyu[268482632] -> 29014 Orfen admin_tonpc 29022
+[31.03.21 08:34:47] SUCCESS Osobennyu[268482632] -> 29014 Orfen admin_admin
+[31.03.21 08:34:52] SUCCESS Osobennyu[268482632] -> 29014 Orfen admin_show_moves
+[31.03.21 08:35:12] SUCCESS Osobennyu[268482632] admin_tonpc 29001
+[31.03.21 08:35:46] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 08:48:46] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 08:49:03] SUCCESS Osobennyu[268482632] admin_tonpc 29022
+[31.03.21 08:49:58] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 08:50:02] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 08:50:11] SUCCESS Osobennyu[268482632] admin_show_html teleports/clanhall/clanhall.htm
+[31.03.21 08:50:16] SUCCESS Osobennyu[268482632] admin_show_html teleports.htm
+[31.03.21 08:50:43] SUCCESS Osobennyu[268482632] admin_tonpc 29181
+[31.03.21 08:51:09] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 08:51:13] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 08:51:25] SUCCESS Osobennyu[268482632] admin_tonpc 29186
+[31.03.21 08:51:51] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 08:51:55] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 08:52:06] SUCCESS Osobennyu[268482632] admin_tonpc 29176
+[31.03.21 09:20:15] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:20:19] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:20:20] SUCCESS Osobennyu[268482632] admin_show_html teleports/clanhall/clanhall.htm
+[31.03.21 09:20:21] SUCCESS Osobennyu[268482632] admin_move_to 140997 -123379 -1911
+[31.03.21 09:20:55] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:20:58] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:21:06] SUCCESS Osobennyu[268482632] admin_show_html teleports/instance.htm
+[31.03.21 09:21:19] SUCCESS Osobennyu[268482632] admin_show_html teleports.htm
+[31.03.21 09:21:24] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 09:21:32] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 09:21:43] SUCCESS Osobennyu[268482632] admin_move_to 115213 16623 10080
+[31.03.21 09:23:13] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:23:20] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:23:22] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 09:23:24] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 09:23:38] SUCCESS Osobennyu[268482632] admin_move_to 153569 142075 -12737
+[31.03.21 09:24:37] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:24:43] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:24:48] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 09:24:52] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 09:24:55] SUCCESS Osobennyu[268482632] admin_move_to 24783 -12466 -2527
+[31.03.21 09:25:21] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:25:25] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:25:29] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 09:25:35] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 09:26:14] SUCCESS Osobennyu[268482632] admin_move_to 16323 213139 -9359
+[31.03.21 09:26:36] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:26:40] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:26:43] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 09:26:47] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_80.htm
+[31.03.21 09:27:22] SUCCESS Osobennyu[268482632] admin_move_to 191544 -85575 -7184
+[31.03.21 09:29:46] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:29:49] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:29:53] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 09:29:56] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_80.htm
+[31.03.21 09:29:59] SUCCESS Osobennyu[268482632] admin_move_to 115552 -39200 -2480
+[31.03.21 09:30:59] SUCCESS Osobennyu[268482632] -> 25309 Varka's Hero Shadith admin_admin
+[31.03.21 09:31:02] SUCCESS Osobennyu[268482632] -> 25309 Varka's Hero Shadith admin_show_moves
+[31.03.21 09:31:06] SUCCESS Osobennyu[268482632] -> 25309 Varka's Hero Shadith admin_show_html teleports/raid.htm
+[31.03.21 09:31:09] SUCCESS Osobennyu[268482632] -> 25309 Varka's Hero Shadith admin_show_html teleports/raid/raid_80.htm
+[31.03.21 09:31:17] SUCCESS Osobennyu[268482632] admin_move_to 115552 -39200 -2480
+[31.03.21 09:31:45] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:31:54] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:32:00] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 09:32:05] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_70.htm
+[31.03.21 09:32:09] SUCCESS Osobennyu[268482632] admin_move_to 116151 16227 1944
+[31.03.21 09:33:19] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:33:23] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:35:14] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:40:29] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:40:32] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 09:40:35] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 09:40:45] SUCCESS Osobennyu[268482632] admin_move_to 114712 -114811 -11210
+[31.03.21 09:41:59] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:42:24] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:42:31] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 09:42:34] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 09:42:38] SUCCESS Osobennyu[268482632] admin_move_to 55312 219168 -3223
+[31.03.21 09:44:04] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:44:12] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:44:18] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid.htm
+[31.03.21 09:44:20] SUCCESS Osobennyu[268482632] admin_show_html teleports/raid/raid_special.htm
+[31.03.21 09:44:45] SUCCESS Osobennyu[268482632] admin_move_to -21610 181594 -5734
+[31.03.21 09:45:06] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:45:36] SUCCESS Osobennyu[268482632] admin_list_spawns
+[31.03.21 09:45:53] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:45:56] SUCCESS Osobennyu[268482632] admin_list_spawns
+[31.03.21 09:46:07] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:49:33] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 09:49:43] SUCCESS Osobennyu[268482632] admin_show_moves
+[31.03.21 09:49:47] SUCCESS Osobennyu[268482632] admin_show_html teleports/location/hellbound.htm
+[31.03.21 09:49:57] SUCCESS Osobennyu[268482632] admin_move_to -22432 243491 -3068
+[31.03.21 09:58:36] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 09:58:46] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html setclass.htm
+[31.03.21 09:58:50] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html classes/setclass_dwarf.htm
+[31.03.21 09:59:04] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setclass 118
+[31.03.21 10:00:53] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:00:59] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_char_manage
+[31.03.21 10:01:25] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:01:36] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_enchant
+[31.03.21 10:01:43] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:01:49] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html setclass.htm
+[31.03.21 10:01:52] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html classes/setclass_dwarf.htm
+[31.03.21 10:01:57] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setclass 118
+[31.03.21 10:02:45] SUCCESS Osobennyu[268482632] -> 30857 Orven admin_admin
+[31.03.21 10:02:46] SUCCESS Osobennyu[268482632] -> 30857 Orven admin_admin
+[31.03.21 10:03:15] SUCCESS Osobennyu[268482632] -> 30857 Orven admin_show_html charsubclasses.htm
+[31.03.21 10:03:25] FAIL    Osobennyu[268482632] -> 30857 Orven admin_setsubclass 57 40 false
+[31.03.21 10:03:32] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:03:36] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html charsubclasses.htm
+[31.03.21 10:03:44] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setsubclass 57 40 false
+[31.03.21 10:04:10] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:04:41] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_list_announcements
+[31.03.21 10:04:47] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:04:50] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html events/events.htm
+[31.03.21 10:04:53] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_char_manage
+[31.03.21 10:04:57] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_characters 0
+[31.03.21 10:09:03] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_character_list Osobennyu
+[31.03.21 10:09:16] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_add_exp_sp_to_character
+[31.03.21 10:09:53] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setlevel 99
+[31.03.21 10:10:03] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:10:07] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_char_manage
+[31.03.21 10:10:36] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_characters 0
+[31.03.21 10:10:40] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_character_list Osobennyu
+[31.03.21 10:10:50] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html setclass.htm
+[31.03.21 10:10:54] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html classes/setclass_dwarf.htm
+[31.03.21 10:11:02] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setclass 118
+[31.03.21 10:11:36] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:11:44] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_char_manage
+[31.03.21 10:11:46] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_characters 0
+[31.03.21 10:11:50] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_character_list Osobennyu
+[31.03.21 10:12:01] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_skills
+[31.03.21 10:12:11] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_get_skills
+[31.03.21 10:12:13] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_get_skills
+[31.03.21 10:12:14] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_get_skills
+[31.03.21 10:12:17] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_skill_list
+[31.03.21 10:12:26] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_skills
+[31.03.21 10:12:29] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_current_player
+[31.03.21 10:12:31] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_characters 0
+[31.03.21 10:12:32] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:12:40] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:12:47] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_char_manage
+[31.03.21 10:12:50] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_characters 0
+[31.03.21 10:12:54] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_character_list Osobennyu
+[31.03.21 10:13:03] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_add_exp_sp_to_character
+[31.03.21 10:14:18] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_add_exp_sp & &
+[31.03.21 10:14:48] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:14:58] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_char_manage
+[31.03.21 10:15:00] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_char_manage
+[31.03.21 10:15:14] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_characters 0
+[31.03.21 10:15:17] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_character_list Osobennyu
+[31.03.21 10:15:27] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_add_exp_sp_to_character
+[31.03.21 10:15:40] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setlevel 77
+[31.03.21 10:30:34] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:30:40] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_moves
+[31.03.21 10:30:42] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html teleports/town.htm
+[31.03.21 10:30:44] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html teleports/town/giran.htm
+[31.03.21 10:30:50] SUCCESS Osobennyu[268482632] admin_move_to 80518 144416 -3537
+[31.03.21 10:33:29] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 10:33:33] SUCCESS Osobennyu[268482632] admin_char_manage
+[31.03.21 10:33:35] SUCCESS Osobennyu[268482632] admin_show_characters 0
+[31.03.21 10:33:40] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_character_list Osobennyu
+[31.03.21 10:33:51] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_add_exp_sp_to_character
+[31.03.21 10:34:13] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setlevel 75
+[31.03.21 10:57:55] SUCCESS Osobennyu[268482632] -> 30513 Penatus admin_admin
+[31.03.21 10:58:02] SUCCESS Osobennyu[268482632] -> 30513 Penatus admin_show_html charsubclasses.htm
+[31.03.21 10:58:17] FAIL    Osobennyu[268482632] -> 30513 Penatus admin_setsubclass 20 40 false
+[31.03.21 10:58:23] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 10:58:29] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html setclass.htm
+[31.03.21 10:58:35] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html classes/setclass_orc.htm
+[31.03.21 10:58:36] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setclass 46
+[31.03.21 11:00:50] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 11:00:57] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html setclass.htm
+[31.03.21 11:01:06] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html classes/setclass_human.htm
+[31.03.21 11:01:26] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setclass 8
+[31.03.21 11:01:51] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 11:01:55] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_char_manage
+[31.03.21 11:01:59] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_characters 0
+[31.03.21 11:02:03] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_character_list Osobennyu
+[31.03.21 11:02:25] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html setclass.htm
+[31.03.21 11:02:28] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html classes/setclass_orc.htm
+[31.03.21 11:02:29] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setclass 46
+[31.03.21 11:02:33] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 11:02:38] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html charsubclasses.htm
+[31.03.21 11:02:43] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_char_manage
+[31.03.21 11:03:07] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_characters 0
+[31.03.21 11:03:10] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_character_list Osobennyu
+[31.03.21 11:03:19] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_add_exp_sp_to_character
+[31.03.21 11:04:09] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setlevel 76
+[31.03.21 11:18:28] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 11:18:31] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_server admserver.htm
+[31.03.21 11:18:35] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_server_shutdown
+[31.03.21 11:18:47] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_server_restart 10
+[31.03.21 12:30:50] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 12:30:57] SUCCESS Osobennyu[268482632] admin_char_manage
+[31.03.21 12:30:58] SUCCESS Osobennyu[268482632] admin_show_characters 0
+[31.03.21 12:31:05] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_character_list Osobennyu
+[31.03.21 12:31:14] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_add_exp_sp_to_character
+[31.03.21 12:31:32] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setlevel 75
+[31.03.21 12:31:53] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 12:32:01] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_char_manage
+[31.03.21 12:32:05] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_characters 0
+[31.03.21 12:32:08] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_character_list Osobennyu
+[31.03.21 12:32:20] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_add_exp_sp_to_character
+[31.03.21 12:32:34] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_setlevel 76
+[31.03.21 13:02:43] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 13:02:45] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 13:02:48] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[31.03.21 13:02:51] SUCCESS Osobennyu[268482632] admin_server_shutdown
+[31.03.21 13:02:54] SUCCESS Osobennyu[268482632] admin_server_restart
+[31.03.21 13:03:07] SUCCESS Osobennyu[268482632] admin_server_restart 15
+[31.03.21 13:05:31] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 13:05:39] SUCCESS Osobennyu[268482632] admin_itemcreate
+[31.03.21 13:06:28] SUCCESS Osobennyu[268482632] admin_create_item 4037 1000
+[31.03.21 13:10:38] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_admin
+[31.03.21 13:10:45] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_moves
+[31.03.21 13:11:10] SUCCESS Osobennyu[268482632] -> Osobennyu[268482632] admin_show_html teleports/location/hellbound.htm
+[31.03.21 13:11:16] SUCCESS Osobennyu[268482632] admin_move_to -11802 236360 -3271
+[31.03.21 19:05:06] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 19:05:07] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[31.03.21 19:05:09] SUCCESS Osobennyu[268482632] admin_server_shutdown
+[31.03.21 19:05:12] SUCCESS Osobennyu[268482632] admin_server_restart 20
+[31.03.21 19:10:10] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 19:10:12] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[31.03.21 19:10:13] SUCCESS Osobennyu[268482632] admin_server_shutdown
+[31.03.21 19:10:16] SUCCESS Osobennyu[268482632] admin_server_restart 10
+[31.03.21 19:15:30] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 19:15:34] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[31.03.21 19:15:35] SUCCESS Osobennyu[268482632] admin_server_shutdown
+[31.03.21 19:15:38] SUCCESS Osobennyu[268482632] admin_server_restart 10
+[31.03.21 19:19:35] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 19:19:37] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[31.03.21 19:19:38] SUCCESS Osobennyu[268482632] admin_show_html reload.htm
+[31.03.21 19:19:40] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[31.03.21 19:19:41] SUCCESS Osobennyu[268482632] admin_server_shutdown
+[31.03.21 19:19:43] SUCCESS Osobennyu[268482632] admin_server_restart 10
+[31.03.21 22:14:22] SUCCESS Osobennyu[268482632] admin_admin
+[31.03.21 22:14:26] SUCCESS Osobennyu[268482632] admin_server admserver.htm
+[31.03.21 22:14:27] SUCCESS Osobennyu[268482632] admin_server_shutdown
+[31.03.21 22:14:30] SUCCESS Osobennyu[268482632] admin_server_restart 10

@@ -1,0 +1,190 @@
+[09.04.21 21:38:38] SUCCESS admin[268481667] -> 21163 Lesser Ancient Shaman admin_admin
+[09.04.21 21:38:39] SUCCESS admin[268481667] -> 21163 Lesser Ancient Shaman admin_invis
+[09.04.21 21:39:29] SUCCESS admin[268481667] -> 21254 Tomb Guard admin_admin
+[09.04.21 21:39:30] SUCCESS admin[268481667] -> 21254 Tomb Guard admin_show_moves
+[09.04.21 21:39:32] SUCCESS admin[268481667] -> 21254 Tomb Guard admin_show_html teleports/raid.htm
+[09.04.21 21:39:33] SUCCESS admin[268481667] -> 21254 Tomb Guard admin_show_html teleports/raid/raid_special.htm
+[09.04.21 21:39:35] SUCCESS admin[268481667] admin_move_to 55312 219168 -3223
+[09.04.21 21:39:42] SUCCESS admin[268481667] admin_admin
+[09.04.21 21:39:43] SUCCESS admin[268481667] admin_show_moves
+[09.04.21 21:39:46] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[09.04.21 21:40:03] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[09.04.21 21:40:05] SUCCESS admin[268481667] admin_move_to 55312 219168 -3223
+[09.04.21 21:40:11] SUCCESS admin[268481667] admin_admin
+[09.04.21 21:40:12] SUCCESS admin[268481667] admin_show_moves
+[09.04.21 21:40:13] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[09.04.21 21:40:16] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[09.04.21 21:40:17] SUCCESS admin[268481667] admin_move_to 55312 219168 -3223
+[09.04.21 21:40:21] SUCCESS admin[268481667] admin_admin
+[09.04.21 21:40:22] SUCCESS admin[268481667] admin_show_moves
+[09.04.21 21:40:26] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[09.04.21 21:40:27] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[09.04.21 21:40:28] SUCCESS admin[268481667] admin_move_to 115213 16623 10080
+[09.04.21 21:42:00] SUCCESS admin[268481667] -> 29025 Baium admin_admin
+[09.04.21 21:44:21] SUCCESS admin[268481667] -> 29025 Baium admin_admin
+[09.04.21 21:44:30] SUCCESS admin[268481667] -> 29025 Baium admin_itemcreate
+[09.04.21 21:44:39] SUCCESS admin[268481667] -> 29025 Baium admin_create_item 4295 10
+[09.04.21 21:50:21] SUCCESS admin[268481667] -> 29025 Baium admin_admin
+[09.04.21 21:50:23] SUCCESS admin[268481667] -> 29025 Baium admin_show_moves
+[09.04.21 21:50:30] SUCCESS admin[268481667] -> 29025 Baium admin_tonpc 20858
+[09.04.21 21:50:45] SUCCESS admin[268481667] -> 29025 Baium admin_admin
+[09.04.21 21:50:45] SUCCESS admin[268481667] -> 29025 Baium admin_show_moves
+[09.04.21 21:50:53] SUCCESS admin[268481667] -> 29025 Baium admin_show_html teleports/others.htm
+[09.04.21 21:51:00] SUCCESS admin[268481667] -> 29025 Baium admin_show_html teleports.htm
+[09.04.21 21:51:08] SUCCESS admin[268481667] -> 29025 Baium admin_tele
+[09.04.21 21:51:10] SUCCESS admin[268481667] admin_goup
+[09.04.21 21:51:16] SUCCESS admin[268481667] admin_godown
+[09.04.21 21:52:46] SUCCESS admin[268481667] -> 29020 Baium admin_admin
+[09.04.21 21:52:56] SUCCESS admin[268481667] -> 29020 Baium admin_kill
+[09.04.21 21:54:04] SUCCESS admin[268481667] admin_admin
+[09.04.21 21:54:08] SUCCESS admin[268481667] admin_show_moves
+[09.04.21 21:54:10] SUCCESS admin[268481667] admin_show_html teleports/town.htm
+[09.04.21 21:54:11] SUCCESS admin[268481667] admin_show_html teleports/town/giran.htm
+[09.04.21 21:54:13] SUCCESS admin[268481667] admin_move_to 82698 148638 -3473
+[09.04.21 22:05:15] SUCCESS admin[268481667] -> 30080 Clarissa admin_admin
+[09.04.21 22:05:33] SUCCESS admin[268481667] -> admin[268481667] admin_char_manage
+[09.04.21 22:05:36] SUCCESS admin[268481667] -> admin[268481667] admin_admin
+[09.04.21 22:08:37] SUCCESS admin[268481667] -> admin[268481667] admin_admin
+[09.04.21 22:08:39] SUCCESS admin[268481667] -> admin[268481667] admin_show_moves
+[09.04.21 22:08:43] SUCCESS admin[268481667] admin_tonpc 13001
+[09.04.21 22:10:06] SUCCESS admin[268481667] admin_recall 22222
+[09.04.21 22:10:50] SUCCESS admin[268481667] admin_admin
+[09.04.21 22:10:52] SUCCESS admin[268481667] admin_char_manage
+[09.04.21 22:10:54] SUCCESS admin[268481667] admin_show_characters 0
+[09.04.21 22:10:55] SUCCESS admin[268481667] -> 22222[268481884] admin_character_list 22222
+[09.04.21 22:10:57] SUCCESS admin[268481667] -> 22222[268481884] admin_add_exp_sp_to_character
+[09.04.21 22:11:01] SUCCESS admin[268481667] -> 22222[268481884] admin_setlevel 80
+[09.04.21 22:13:06] SUCCESS admin[268481667] admin_recall 33333
+[09.04.21 22:13:22] SUCCESS admin[268481667] admin_admin
+[09.04.21 22:13:36] SUCCESS admin[268481667] admin_server admserver.htm
+[09.04.21 22:13:37] SUCCESS admin[268481667] admin_admin
+[09.04.21 22:13:39] SUCCESS admin[268481667] admin_char_manage
+[09.04.21 22:13:41] SUCCESS admin[268481667] admin_show_characters 0
+[09.04.21 22:13:43] SUCCESS admin[268481667] -> 33333[268481973] admin_character_list 33333
+[09.04.21 22:13:46] SUCCESS admin[268481667] -> 33333[268481973] admin_add_exp_sp_to_character
+[09.04.21 22:13:48] SUCCESS admin[268481667] -> 33333[268481973] admin_setlevel 81
+[09.04.21 22:16:26] SUCCESS admin[268481667] -> 33333[268481973] admin_admin
+[09.04.21 22:17:15] SUCCESS admin[268481667] -> 33333[268481973] admin_recall 4444
+[09.04.21 22:17:28] SUCCESS admin[268481667] -> 33333[268481973] admin_recall 44444
+[09.04.21 22:20:32] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_admin
+[09.04.21 22:20:34] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_show_html pledgemanage.htm
+[09.04.21 22:20:40] FAIL    admin[268481667] -> admin[268481667] admin_pledge create
+[09.04.21 22:20:43] SUCCESS admin[268481667] -> admin[268481667] admin_admin
+[09.04.21 22:20:45] SUCCESS admin[268481667] -> admin[268481667] admin_show_html pledgemanage.htm
+[09.04.21 22:20:53] SUCCESS admin[268481667] -> admin[268481667] admin_pledge create clan
+[09.04.21 22:20:56] SUCCESS admin[268481667] -> admin[268481667] admin_admin
+[09.04.21 22:20:57] SUCCESS admin[268481667] -> admin[268481667] admin_show_html pledgemanage.htm
+[09.04.21 22:21:20] SUCCESS admin[268481667] -> admin[268481667] admin_pledge setlevel 5
+[09.04.21 22:21:25] SUCCESS admin[268481667] -> admin[268481667] admin_admin
+[09.04.21 22:21:32] SUCCESS admin[268481667] -> admin[268481667] admin_show_html pledgemanage.htm
+[09.04.21 22:23:20] SUCCESS admin[268481667] -> 33333[268481973] admin_admin
+[09.04.21 22:23:21] SUCCESS admin[268481667] -> 33333[268481973] admin_gmshop
+[09.04.21 22:23:22] SUCCESS admin[268481667] -> 33333[268481973] admin_show_html gmstore/quest.htm
+[09.04.21 22:23:23] SUCCESS admin[268481667] -> 33333[268481973] admin_buy 300539
+[09.04.21 22:23:32] SUCCESS admin[268481667] -> 33333[268481973] admin_admin
+[09.04.21 22:23:40] SUCCESS admin[268481667] -> 33333[268481973] admin_show_html pledgemanage.htm
+[09.04.21 22:23:48] SUCCESS admin[268481667] -> 33333[268481973] admin_admin
+[09.04.21 22:23:55] SUCCESS admin[268481667] -> 33333[268481973] admin_gmshop
+[09.04.21 22:24:09] SUCCESS admin[268481667] -> 33333[268481973] admin_show_html gmstore/quest.htm
+[09.04.21 22:24:10] SUCCESS admin[268481667] -> 33333[268481973] admin_buy 300530
+[09.04.21 22:26:01] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_admin
+[09.04.21 22:26:03] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_show_moves
+[09.04.21 22:26:04] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_show_html teleports/town.htm
+[09.04.21 22:26:05] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_show_html teleports/town/giran.htm
+[09.04.21 22:26:09] SUCCESS admin[268481667] admin_move_to 82698 148638 -3473
+[09.04.21 22:27:55] SUCCESS admin[268481667] -> 30120 Maximilian admin_admin
+[09.04.21 22:27:57] SUCCESS admin[268481667] -> 30120 Maximilian admin_show_moves
+[09.04.21 22:27:58] SUCCESS admin[268481667] -> 30120 Maximilian admin_admin
+[09.04.21 22:28:01] SUCCESS admin[268481667] -> 30120 Maximilian admin_char_manage
+[09.04.21 22:28:02] SUCCESS admin[268481667] -> 30120 Maximilian admin_show_characters 0
+[09.04.21 22:28:03] SUCCESS admin[268481667] -> 22222[268481884] admin_character_list 22222
+[09.04.21 22:28:06] SUCCESS admin[268481667] admin_goto_char_menu 22222
+[09.04.21 22:31:29] SUCCESS admin[268481667] -> 44444[268482027] admin_admin
+[09.04.21 22:31:33] SUCCESS admin[268481667] -> 33333[268481973] admin_show_html pledgemanage.htm
+[09.04.21 22:31:48] SUCCESS admin[268481667] -> 33333[268481973] admin_pledge create 88888
+[09.04.21 22:32:15] SUCCESS admin[268481667] -> 33333[268481973] admin_admin
+[09.04.21 22:32:16] SUCCESS admin[268481667] -> 33333[268481973] admin_show_html pledgemanage.htm
+[09.04.21 22:32:20] FAIL    admin[268481667] -> 33333[268481973] admin_pledge setlevel
+[09.04.21 22:32:22] SUCCESS admin[268481667] -> 33333[268481973] admin_admin
+[09.04.21 22:32:24] SUCCESS admin[268481667] -> 33333[268481973] admin_show_html pledgemanage.htm
+[09.04.21 22:32:28] SUCCESS admin[268481667] -> 33333[268481973] admin_pledge setlevel 5
+[09.04.21 22:40:09] SUCCESS admin[268481667] admin_admin
+[09.04.21 22:40:16] SUCCESS admin[268481667] admin_itemcreate
+[09.04.21 22:40:29] SUCCESS admin[268481667] admin_create_item 4037 9999
+[09.04.21 22:42:53] SUCCESS admin[268481667] -> 30080 Clarissa admin_admin
+[09.04.21 22:42:56] SUCCESS admin[268481667] -> 30080 Clarissa admin_char_manage
+[09.04.21 22:42:58] SUCCESS admin[268481667] -> 30080 Clarissa admin_show_characters 0
+[09.04.21 22:42:59] SUCCESS admin[268481667] -> 22222[268481884] admin_character_list 22222
+[09.04.21 22:43:01] SUCCESS admin[268481667] admin_goto_char_menu 22222
+[09.04.21 22:45:12] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_admin
+[09.04.21 22:45:19] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_itemcreate
+[09.04.21 22:45:24] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_create_item 3865 10
+[09.04.21 22:52:27] SUCCESS admin[268481667] admin_admin
+[09.04.21 22:52:33] SUCCESS admin[268481667] admin_admin
+[09.04.21 22:52:38] SUCCESS admin[268481667] admin_invul
+[09.04.21 22:53:17] SUCCESS admin[268481667] -> 29068 Antharas admin_admin
+[09.04.21 22:53:20] SUCCESS admin[268481667] -> 29068 Antharas admin_invul
+[09.04.21 22:53:58] SUCCESS admin[268481667] admin_admin
+[09.04.21 22:53:59] SUCCESS admin[268481667] admin_show_moves
+[09.04.21 22:54:09] SUCCESS admin[268481667] admin_show_html teleports/raid.htm
+[09.04.21 22:54:10] SUCCESS admin[268481667] admin_show_html teleports/raid/raid_special.htm
+[09.04.21 22:54:12] SUCCESS admin[268481667] admin_move_to 183409 114824 -8020
+[09.04.21 22:57:12] SUCCESS admin[268481667] admin_admin
+[09.04.21 22:57:13] SUCCESS admin[268481667] admin_show_moves
+[09.04.21 22:57:17] SUCCESS admin[268481667] admin_tonpc 13001
+[09.04.21 22:57:29] FAIL    admin[268481667] -> 22222[268481884] admin_recall
+[09.04.21 22:57:37] SUCCESS admin[268481667] -> 22222[268481884] admin_recall 22222
+[09.04.21 22:57:47] SUCCESS admin[268481667] -> 22222[268481884] admin_recall 33333
+[09.04.21 22:57:56] SUCCESS admin[268481667] -> 22222[268481884] admin_recall 44444
+[09.04.21 22:59:21] SUCCESS admin[268481667] admin_admin
+[09.04.21 22:59:58] SUCCESS admin[268481667] admin_admin
+[09.04.21 23:00:01] SUCCESS admin[268481667] admin_invul
+[09.04.21 23:05:55] SUCCESS admin[268481667] -> 29068 Antharas admin_admin
+[09.04.21 23:06:09] SUCCESS admin[268481667] -> 29068 Antharas admin_kill
+[09.04.21 23:09:11] SUCCESS admin[268481667] admin_admin
+[09.04.21 23:09:13] SUCCESS admin[268481667] admin_show_moves
+[09.04.21 23:09:14] SUCCESS admin[268481667] admin_show_html teleports/location/hellbound.htm
+[09.04.21 23:09:16] SUCCESS admin[268481667] admin_move_to -19715 249356 -3237
+[09.04.21 23:11:42] SUCCESS admin[268481667] -> 22337 Desiccator admin_admin
+[09.04.21 23:12:17] SUCCESS admin[268481667] -> 22337 Desiccator admin_list_spawns
+[09.04.21 23:12:19] SUCCESS admin[268481667] -> 22337 Desiccator admin_admin
+[09.04.21 23:12:21] SUCCESS admin[268481667] -> 22337 Desiccator admin_show_spawns
+[09.04.21 23:12:26] SUCCESS admin[268481667] -> 22337 Desiccator admin_spawn_monster 29019
+[09.04.21 23:13:28] SUCCESS admin[268481667] -> 29019 Antharas admin_admin
+[09.04.21 23:13:41] SUCCESS admin[268481667] admin_delete
+[09.04.21 23:14:11] SUCCESS admin[268481667] admin_admin
+[09.04.21 23:14:18] SUCCESS admin[268481667] admin_admin
+[09.04.21 23:14:18] SUCCESS admin[268481667] admin_show_moves
+[09.04.21 23:14:20] SUCCESS admin[268481667] admin_show_html teleports/townarea.htm
+[09.04.21 23:14:21] SUCCESS admin[268481667] admin_show_html teleports.htm
+[09.04.21 23:14:24] SUCCESS admin[268481667] admin_show_html teleports/instance.htm
+[09.04.21 23:14:27] SUCCESS admin[268481667] admin_show_html teleports/instance/crystalcaverns.htm
+[09.04.21 23:14:29] SUCCESS admin[268481667] admin_move_to 144306 152454 -12136
+[09.04.21 23:14:54] SUCCESS admin[268481667] -> [Door 24220022] admin_admin
+[09.04.21 23:14:55] SUCCESS admin[268481667] -> [Door 24220022] admin_show_moves
+[09.04.21 23:14:56] SUCCESS admin[268481667] -> [Door 24220022] admin_show_html teleports/town.htm
+[09.04.21 23:14:56] SUCCESS admin[268481667] -> [Door 24220022] admin_show_html teleports/town/giran.htm
+[09.04.21 23:14:57] SUCCESS admin[268481667] admin_move_to 82698 148638 -3473
+[09.04.21 23:24:58] SUCCESS admin[268481667] -> 32503 Entrance Manager admin_admin
+[09.04.21 23:24:58] SUCCESS admin[268481667] -> 32503 Entrance Manager admin_admin
+[09.04.21 23:27:16] SUCCESS admin[268481667] admin_admin
+[09.04.21 23:27:17] SUCCESS admin[268481667] admin_admin
+[09.04.21 23:27:44] SUCCESS admin[268481667] admin_show_moves
+[09.04.21 23:27:45] SUCCESS admin[268481667] admin_show_html teleports/town.htm
+[09.04.21 23:27:46] SUCCESS admin[268481667] admin_show_html teleports/town/giran.htm
+[09.04.21 23:27:46] SUCCESS admin[268481667] admin_move_to 82698 148638 -3473
+[09.04.21 23:36:27] SUCCESS admin[268481667] admin_admin
+[09.04.21 23:36:29] SUCCESS admin[268481667] admin_invul
+[09.04.21 23:40:05] SUCCESS admin[268481667] -> 18598 Cursed Head Maid admin_admin
+[09.04.21 23:40:07] SUCCESS admin[268481667] -> 18598 Cursed Head Maid admin_show_moves
+[09.04.21 23:40:08] SUCCESS admin[268481667] -> 18598 Cursed Head Maid admin_show_html teleports/town.htm
+[09.04.21 23:40:08] SUCCESS admin[268481667] admin_show_html teleports/town/giran.htm
+[09.04.21 23:40:09] SUCCESS admin[268481667] admin_move_to 82698 148638 -3473
+[09.04.21 23:53:06] SUCCESS admin[268481667] admin_admin
+[09.04.21 23:53:07] SUCCESS admin[268481667] admin_server admserver.htm
+[09.04.21 23:53:08] SUCCESS admin[268481667] admin_server_shutdown
+[09.04.21 23:53:10] SUCCESS admin[268481667] admin_server_restart 10
+[09.04.21 23:57:44] SUCCESS admin[268481667] admin_admin
+[09.04.21 23:58:15] SUCCESS admin[268481667] admin_server admserver.htm
+[09.04.21 23:58:16] SUCCESS admin[268481667] admin_server_shutdown
+[09.04.21 23:58:18] SUCCESS admin[268481667] admin_server_restart 10

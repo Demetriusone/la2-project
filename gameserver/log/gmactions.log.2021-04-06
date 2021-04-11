@@ -1,0 +1,12 @@
+[06.04.21 18:30:05] SUCCESS admin[268481667] admin_admin
+[06.04.21 18:30:07] SUCCESS admin[268481667] admin_server admserver.htm
+[06.04.21 18:30:09] SUCCESS admin[268481667] admin_server_shutdown
+[06.04.21 18:30:12] SUCCESS admin[268481667] admin_server_restart 20
+[06.04.21 18:38:26] SUCCESS admin[268481667] admin_admin
+[06.04.21 18:38:28] SUCCESS admin[268481667] admin_server admserver.htm
+[06.04.21 18:38:29] SUCCESS admin[268481667] admin_server_shutdown
+[06.04.21 18:38:31] SUCCESS admin[268481667] admin_server_restart 20
+[06.04.21 18:47:03] SUCCESS admin[268481667] admin_admin
+[06.04.21 18:47:04] SUCCESS admin[268481667] admin_server admserver.htm
+[06.04.21 18:47:05] SUCCESS admin[268481667] admin_server_shutdown
+[06.04.21 18:47:08] SUCCESS admin[268481667] admin_server_shutdown 10

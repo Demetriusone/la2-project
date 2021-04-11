@@ -1,0 +1,43 @@
+[10.04.21 00:03:01] SUCCESS admin[268481667] admin_admin
+[10.04.21 00:03:02] SUCCESS admin[268481667] admin_server admserver.htm
+[10.04.21 00:03:20] SUCCESS admin[268481667] admin_server_shutdown
+[10.04.21 00:03:24] SUCCESS admin[268481667] admin_server_restart 10
+[10.04.21 00:15:28] SUCCESS admin[268481667] admin_admin
+[10.04.21 00:18:11] SUCCESS admin[268481667] admin_server admserver.htm
+[10.04.21 00:18:12] SUCCESS admin[268481667] admin_server_shutdown
+[10.04.21 00:18:15] SUCCESS admin[268481667] admin_server_shutdown 10
+[10.04.21 23:03:00] SUCCESS admin[268481667] admin_admin
+[10.04.21 23:03:01] SUCCESS admin[268481667] admin_server admserver.htm
+[10.04.21 23:03:03] SUCCESS admin[268481667] admin_show_html reload.htm
+[10.04.21 23:03:14] SUCCESS admin[268481667] admin_reload_spawn
+[10.04.21 23:03:47] SUCCESS admin[268481667] admin_admin
+[10.04.21 23:05:22] SUCCESS admin[268481667] admin_admin
+[10.04.21 23:05:24] SUCCESS admin[268481667] admin_server admserver.htm
+[10.04.21 23:05:27] SUCCESS admin[268481667] admin_server_shutdown
+[10.04.21 23:14:10] SUCCESS admin[268481667] admin_admin
+[10.04.21 23:14:12] SUCCESS admin[268481667] admin_server admserver.htm
+[10.04.21 23:14:13] SUCCESS admin[268481667] admin_server admserver.htm
+[10.04.21 23:14:15] SUCCESS admin[268481667] admin_server_shutdown
+[10.04.21 23:14:53] SUCCESS admin[268481667] admin_server_shutdown 25
+[10.04.21 23:28:14] SUCCESS admin[268481667] admin_admin
+[10.04.21 23:28:15] SUCCESS admin[268481667] admin_server admserver.htm
+[10.04.21 23:28:17] SUCCESS admin[268481667] admin_server_shutdown
+[10.04.21 23:30:53] SUCCESS admin[268481667] admin_server_shutdown 20
+[10.04.21 23:37:52] SUCCESS admin[268481667] admin_admin
+[10.04.21 23:37:53] SUCCESS admin[268481667] admin_show_moves
+[10.04.21 23:37:57] SUCCESS admin[268481667] admin_tonpc 13001
+[10.04.21 23:46:51] SUCCESS admin[268481667] admin_admin
+[10.04.21 23:46:52] SUCCESS admin[268481667] admin_admin
+[10.04.21 23:47:08] SUCCESS admin[268481667] admin_admin
+[10.04.21 23:47:08] SUCCESS admin[268481667] admin_server admserver.htm
+[10.04.21 23:47:09] SUCCESS admin[268481667] admin_server_shutdown
+[10.04.21 23:47:36] SUCCESS admin[268481667] admin_server_restart 25
+[10.04.21 23:49:17] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_admin
+[10.04.21 23:49:18] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_server admserver.htm
+[10.04.21 23:49:19] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_server_shutdown
+[10.04.21 23:49:27] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_server_shutdown 50
+[10.04.21 23:54:09] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_recall 22222
+[10.04.21 23:55:12] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_recall 33333
+[10.04.21 23:56:12] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_recall 4444
+[10.04.21 23:56:21] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_recall 4444
+[10.04.21 23:56:32] SUCCESS admin[268481667] -> 13001 Heart of Warding admin_recall 44444
