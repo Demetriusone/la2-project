@@ -1,310 +1,34 @@
-[11.04.21 00:07:47] Viktorina Stoped.
-[11.04.21 00:07:47] Continue Viktorina: Mon Apr 12 01:14:00 EEST 2021|Stop Viktorina: Mon Apr 12 03:14:00 EEST 2021
-[11.04.21 00:08:10] Loaded Event: Apil Fool's Day [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: Christmas [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: Coffer of Shadows [state: deactivated]
-[11.04.21 00:08:10] Loaded 1 configs for Capture The Flag event.
-[11.04.21 00:08:10] Loaded Event: CTF
-[11.04.21 00:08:10] Loaded CustomDropItems: CustomDropItems [state: activated]
-[11.04.21 00:08:10] Loaded Event: Fight Club
-[11.04.21 00:08:10] Loaded Event: Freya Celebration [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: Gift Of Vitality [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: GvG
-[11.04.21 00:08:10] Loaded Event: March 8 [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: Master of Enchanting [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: PcCafePointsExchange [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: SavingSnowman [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: Summer Meleons [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: The Fall Harvest [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: The Flow Of The Horror [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: Trick of Trnasmutation [state: deactivated]
-[11.04.21 00:08:10] Loaded 3 configs for TvT event.
-[11.04.21 00:08:10] Loaded Event: TvT
-[11.04.21 00:08:10] Loaded Event: TvT Arena 1 [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: TvT Arena 2 [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: TvT Arena 3 [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: Viktorina
-[11.04.21 00:08:10] Loaded Event: Bounty Hunters Guild
-[11.04.21 00:08:10] Loaded Event: L2 Medal Collection Event [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: Change of Heart[state: deactivated]
-[11.04.21 00:08:10] Loaded Event: null [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: l2day [state: deactivated]
-[11.04.21 00:08:10] Loaded Event: Last Hero
-[11.04.21 00:08:35] Start Viktorina: Sun Apr 11 01:14:00 EEST 2021
-[11.04.21 00:08:35] Stop Viktorina: Sun Apr 11 03:14:00 EEST 2021
-[11.04.21 00:11:51] Loaded Event: Apil Fool's Day [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: Christmas [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: Coffer of Shadows [state: deactivated]
-[11.04.21 00:11:51] Loaded 1 configs for Capture The Flag event.
-[11.04.21 00:11:51] Loaded Event: CTF
-[11.04.21 00:11:51] Loaded CustomDropItems: CustomDropItems [state: activated]
-[11.04.21 00:11:51] Loaded Event: Fight Club
-[11.04.21 00:11:51] Loaded Event: Freya Celebration [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: Gift Of Vitality [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: GvG
-[11.04.21 00:11:51] Loaded Event: March 8 [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: Master of Enchanting [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: PcCafePointsExchange [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: SavingSnowman [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: Summer Meleons [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: The Fall Harvest [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: The Flow Of The Horror [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: Trick of Trnasmutation [state: deactivated]
-[11.04.21 00:11:51] Loaded 3 configs for TvT event.
-[11.04.21 00:11:51] Loaded Event: TvT
-[11.04.21 00:11:51] Loaded Event: TvT Arena 1 [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: TvT Arena 2 [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: TvT Arena 3 [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: Viktorina
-[11.04.21 00:11:51] Loaded Event: Bounty Hunters Guild
-[11.04.21 00:11:51] Loaded Event: L2 Medal Collection Event [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: Change of Heart[state: deactivated]
-[11.04.21 00:11:51] Loaded Event: null [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: l2day [state: deactivated]
-[11.04.21 00:11:51] Loaded Event: Last Hero
-[11.04.21 00:12:16] Start Viktorina: Sun Apr 11 01:14:00 EEST 2021
-[11.04.21 00:12:16] Stop Viktorina: Sun Apr 11 03:14:00 EEST 2021
-[11.04.21 00:14:48] Viktorina Stoped.
-[11.04.21 00:14:48] Continue Viktorina: Mon Apr 12 01:14:00 EEST 2021|Stop Viktorina: Mon Apr 12 03:14:00 EEST 2021
-[11.04.21 00:15:10] Loaded Event: Apil Fool's Day [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: Christmas [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: Coffer of Shadows [state: deactivated]
-[11.04.21 00:15:10] Loaded 1 configs for Capture The Flag event.
-[11.04.21 00:15:10] Loaded Event: CTF
-[11.04.21 00:15:10] Loaded CustomDropItems: CustomDropItems [state: activated]
-[11.04.21 00:15:10] Loaded Event: Fight Club
-[11.04.21 00:15:10] Loaded Event: Freya Celebration [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: Gift Of Vitality [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: GvG
-[11.04.21 00:15:10] Loaded Event: March 8 [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: Master of Enchanting [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: PcCafePointsExchange [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: SavingSnowman [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: Summer Meleons [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: The Fall Harvest [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: The Flow Of The Horror [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: Trick of Trnasmutation [state: deactivated]
-[11.04.21 00:15:10] Loaded 3 configs for TvT event.
-[11.04.21 00:15:10] Loaded Event: TvT
-[11.04.21 00:15:10] Loaded Event: TvT Arena 1 [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: TvT Arena 2 [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: TvT Arena 3 [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: Viktorina
-[11.04.21 00:15:10] Loaded Event: Bounty Hunters Guild
-[11.04.21 00:15:10] Loaded Event: L2 Medal Collection Event [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: Change of Heart[state: deactivated]
-[11.04.21 00:15:10] Loaded Event: null [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: l2day [state: deactivated]
-[11.04.21 00:15:10] Loaded Event: Last Hero
-[11.04.21 00:15:35] Start Viktorina: Sun Apr 11 01:14:00 EEST 2021
-[11.04.21 00:15:35] Stop Viktorina: Sun Apr 11 03:14:00 EEST 2021
-[11.04.21 00:23:20] Viktorina Stoped.
-[11.04.21 00:23:20] Continue Viktorina: Mon Apr 12 01:14:00 EEST 2021|Stop Viktorina: Mon Apr 12 03:14:00 EEST 2021
-[11.04.21 00:23:42] Loaded Event: Apil Fool's Day [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: Christmas [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: Coffer of Shadows [state: deactivated]
-[11.04.21 00:23:42] Loaded 1 configs for Capture The Flag event.
-[11.04.21 00:23:42] Loaded Event: CTF
-[11.04.21 00:23:42] Loaded CustomDropItems: CustomDropItems [state: activated]
-[11.04.21 00:23:42] Loaded Event: Fight Club
-[11.04.21 00:23:42] Loaded Event: Freya Celebration [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: Gift Of Vitality [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: GvG
-[11.04.21 00:23:42] Loaded Event: March 8 [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: Master of Enchanting [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: PcCafePointsExchange [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: SavingSnowman [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: Summer Meleons [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: The Fall Harvest [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: The Flow Of The Horror [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: Trick of Trnasmutation [state: deactivated]
-[11.04.21 00:23:42] Loaded 3 configs for TvT event.
-[11.04.21 00:23:42] Loaded Event: TvT
-[11.04.21 00:23:42] Loaded Event: TvT Arena 1 [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: TvT Arena 2 [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: TvT Arena 3 [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: Viktorina
-[11.04.21 00:23:42] Loaded Event: Bounty Hunters Guild
-[11.04.21 00:23:42] Loaded Event: L2 Medal Collection Event [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: Change of Heart[state: deactivated]
-[11.04.21 00:23:42] Loaded Event: null [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: l2day [state: deactivated]
-[11.04.21 00:23:42] Loaded Event: Last Hero
-[11.04.21 00:24:07] Start Viktorina: Sun Apr 11 01:14:00 EEST 2021
-[11.04.21 00:24:07] Stop Viktorina: Sun Apr 11 03:14:00 EEST 2021
-[11.04.21 00:49:36] Viktorina Stoped.
-[11.04.21 00:49:36] Continue Viktorina: Mon Apr 12 01:14:00 EEST 2021|Stop Viktorina: Mon Apr 12 03:14:00 EEST 2021
-[11.04.21 00:49:57] Loaded Event: Apil Fool's Day [state: deactivated]
-[11.04.21 00:49:57] Loaded Event: Christmas [state: deactivated]
-[11.04.21 00:49:57] Loaded Event: Coffer of Shadows [state: deactivated]
-[11.04.21 00:49:57] Loaded 1 configs for Capture The Flag event.
-[11.04.21 00:49:57] Loaded Event: CTF
-[11.04.21 00:49:57] Loaded CustomDropItems: CustomDropItems [state: activated]
-[11.04.21 00:49:58] Loaded Event: Fight Club
-[11.04.21 00:49:58] Loaded Event: Freya Celebration [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: Gift Of Vitality [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: GvG
-[11.04.21 00:49:58] Loaded Event: March 8 [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: Master of Enchanting [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: PcCafePointsExchange [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: SavingSnowman [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: Summer Meleons [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: The Fall Harvest [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: The Flow Of The Horror [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: Trick of Trnasmutation [state: deactivated]
-[11.04.21 00:49:58] Loaded 3 configs for TvT event.
-[11.04.21 00:49:58] Loaded Event: TvT
-[11.04.21 00:49:58] Loaded Event: TvT Arena 1 [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: TvT Arena 2 [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: TvT Arena 3 [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: Viktorina
-[11.04.21 00:49:58] Loaded Event: Bounty Hunters Guild
-[11.04.21 00:49:58] Loaded Event: L2 Medal Collection Event [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: Change of Heart[state: deactivated]
-[11.04.21 00:49:58] Loaded Event: null [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: l2day [state: deactivated]
-[11.04.21 00:49:58] Loaded Event: Last Hero
-[11.04.21 00:50:23] Start Viktorina: Sun Apr 11 01:14:00 EEST 2021
-[11.04.21 00:50:23] Stop Viktorina: Sun Apr 11 03:14:00 EEST 2021
-[11.04.21 01:04:14] Viktorina Stoped.
-[11.04.21 01:04:14] Continue Viktorina: Mon Apr 12 01:14:00 EEST 2021|Stop Viktorina: Mon Apr 12 03:14:00 EEST 2021
-[11.04.21 01:04:36] Loaded Event: Apil Fool's Day [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: Christmas [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: Coffer of Shadows [state: deactivated]
-[11.04.21 01:04:36] Loaded 1 configs for Capture The Flag event.
-[11.04.21 01:04:36] Loaded Event: CTF
-[11.04.21 01:04:36] Loaded CustomDropItems: CustomDropItems [state: activated]
-[11.04.21 01:04:36] Loaded Event: Fight Club
-[11.04.21 01:04:36] Loaded Event: Freya Celebration [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: Gift Of Vitality [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: GvG
-[11.04.21 01:04:36] Loaded Event: March 8 [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: Master of Enchanting [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: PcCafePointsExchange [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: SavingSnowman [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: Summer Meleons [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: The Fall Harvest [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: The Flow Of The Horror [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: Trick of Trnasmutation [state: deactivated]
-[11.04.21 01:04:36] Loaded 3 configs for TvT event.
-[11.04.21 01:04:36] Loaded Event: TvT
-[11.04.21 01:04:36] Loaded Event: TvT Arena 1 [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: TvT Arena 2 [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: TvT Arena 3 [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: Viktorina
-[11.04.21 01:04:36] Loaded Event: Bounty Hunters Guild
-[11.04.21 01:04:36] Loaded Event: L2 Medal Collection Event [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: Change of Heart[state: deactivated]
-[11.04.21 01:04:36] Loaded Event: null [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: l2day [state: deactivated]
-[11.04.21 01:04:36] Loaded Event: Last Hero
-[11.04.21 01:05:01] Start Viktorina: Sun Apr 11 01:14:00 EEST 2021
-[11.04.21 01:05:01] Stop Viktorina: Sun Apr 11 03:14:00 EEST 2021
-[11.04.21 01:14:00] Viktorina Event: Questions loaded
-[11.04.21 10:57:14] Loaded Event: Apil Fool's Day [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: Christmas [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: Coffer of Shadows [state: deactivated]
-[11.04.21 10:57:14] Loaded 1 configs for Capture The Flag event.
-[11.04.21 10:57:14] Loaded Event: CTF
-[11.04.21 10:57:14] Loaded CustomDropItems: CustomDropItems [state: activated]
-[11.04.21 10:57:14] Loaded Event: Fight Club
-[11.04.21 10:57:14] Loaded Event: Freya Celebration [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: Gift Of Vitality [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: GvG
-[11.04.21 10:57:14] Loaded Event: March 8 [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: Master of Enchanting [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: PcCafePointsExchange [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: SavingSnowman [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: Summer Meleons [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: The Fall Harvest [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: The Flow Of The Horror [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: Trick of Trnasmutation [state: deactivated]
-[11.04.21 10:57:14] Loaded 3 configs for TvT event.
-[11.04.21 10:57:14] Loaded Event: TvT
-[11.04.21 10:57:14] Loaded Event: TvT Arena 1 [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: TvT Arena 2 [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: TvT Arena 3 [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: Viktorina
-[11.04.21 10:57:14] Loaded Event: Bounty Hunters Guild
-[11.04.21 10:57:14] Loaded Event: L2 Medal Collection Event [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: Change of Heart[state: deactivated]
-[11.04.21 10:57:14] Loaded Event: null [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: l2day [state: deactivated]
-[11.04.21 10:57:14] Loaded Event: Last Hero
-[11.04.21 10:57:39] Start Viktorina: Mon Apr 12 01:14:00 EEST 2021
-[11.04.21 10:57:39] Stop Viktorina: Mon Apr 12 03:14:00 EEST 2021
-[11.04.21 12:29:43] Loaded Event: The Flow Of The Horror [state: deactivated]
-[11.04.21 12:29:43] Loaded CustomDropItems: CustomDropItems [state: activated]
-[11.04.21 12:29:43] Loaded Event: Summer Meleons [state: deactivated]
-[11.04.21 12:29:43] Loaded Event: l2day [state: deactivated]
-[11.04.21 12:29:43] Loaded Event: SavingSnowman [state: deactivated]
-[11.04.21 12:29:43] Loaded 3 configs for TvT event.
-[11.04.21 12:29:43] Loaded Event: TvT
-[11.04.21 12:29:43] Loaded 6 configs for TvT event.
-[11.04.21 12:29:43] Loaded Event: TvT
-[11.04.21 12:29:43] Loaded Event: PcCafePointsExchange [state: deactivated]
-[11.04.21 12:29:43] Loaded Event: Trick of Trnasmutation [state: deactivated]
-[11.04.21 12:29:44] Loaded Event: Gift Of Vitality [state: deactivated]
-[11.04.21 12:29:44] Viktorina Stoped.
-[11.04.21 12:29:44] Continue Viktorina: Mon Apr 12 01:14:00 EEST 2021|Stop Viktorina: Mon Apr 12 03:14:00 EEST 2021
-[11.04.21 12:29:44] Loaded Event: Viktorina
-[11.04.21 12:29:44] Loaded Event: l2day [state: deactivated]
-[11.04.21 12:29:44] Loaded Event: Apil Fool's Day [state: deactivated]
-[11.04.21 12:29:44] Loaded Event: Last Hero
-[11.04.21 12:29:44] Loaded Event: March 8 [state: deactivated]
-[11.04.21 12:29:44] Loaded Event: Freya Celebration [state: deactivated]
-[11.04.21 12:29:44] Loaded Event: Change of Heart[state: deactivated]
-[11.04.21 12:29:44] Loaded Event: Bounty Hunters Guild
-[11.04.21 12:29:44] Loaded Event: GvG
-[11.04.21 12:29:44] Loaded Event: Christmas [state: deactivated]
-[11.04.21 12:29:44] Loaded Event: Coffer of Shadows [state: deactivated]
-[11.04.21 12:29:44] Loaded Event: TvT Arena 3 [state: deactivated]
-[11.04.21 12:29:44] Loaded Event: TvT Arena 2 [state: deactivated]
-[11.04.21 12:29:44] Loaded Event: TvT Arena 1 [state: deactivated]
-[11.04.21 12:29:44] Loaded Event: L2 Medal Collection Event [state: deactivated]
-[11.04.21 12:29:44] Loaded 1 configs for Capture The Flag event.
-[11.04.21 12:29:44] Loaded Event: CTF
-[11.04.21 12:29:44] Loaded 2 configs for Capture The Flag event.
-[11.04.21 12:29:44] Loaded Event: CTF
-[11.04.21 12:29:44] Loaded Event: Fight Club
-[11.04.21 12:29:44] Loaded Event: Fight Club
-[11.04.21 12:29:44] Loaded Event: The Fall Harvest [state: deactivated]
-[11.04.21 12:29:44] Loaded Event: Master of Enchanting [state: deactivated]
-[11.04.21 12:30:09] Start Viktorina: Mon Apr 12 01:14:00 EEST 2021
-[11.04.21 12:30:09] Stop Viktorina: Mon Apr 12 03:14:00 EEST 2021
-[11.04.21 12:37:44] Viktorina Stoped.
-[11.04.21 12:37:44] Continue Viktorina: Mon Apr 12 01:14:00 EEST 2021|Stop Viktorina: Mon Apr 12 03:14:00 EEST 2021
-[11.04.21 19:20:02] Loaded Event: Apil Fool's Day [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: Christmas [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: Coffer of Shadows [state: deactivated]
-[11.04.21 19:20:02] Loaded 1 configs for Capture The Flag event.
-[11.04.21 19:20:02] Loaded Event: CTF
-[11.04.21 19:20:02] Loaded CustomDropItems: CustomDropItems [state: activated]
-[11.04.21 19:20:02] Loaded Event: Fight Club
-[11.04.21 19:20:02] Loaded Event: Freya Celebration [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: Gift Of Vitality [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: GvG
-[11.04.21 19:20:02] Loaded Event: March 8 [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: Master of Enchanting [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: PcCafePointsExchange [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: SavingSnowman [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: Summer Meleons [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: The Fall Harvest [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: The Flow Of The Horror [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: Trick of Trnasmutation [state: deactivated]
-[11.04.21 19:20:02] Loaded 3 configs for TvT event.
-[11.04.21 19:20:02] Loaded Event: TvT
-[11.04.21 19:20:02] Loaded Event: TvT Arena 1 [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: TvT Arena 2 [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: TvT Arena 3 [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: Viktorina
-[11.04.21 19:20:02] Loaded Event: Bounty Hunters Guild
-[11.04.21 19:20:02] Loaded Event: L2 Medal Collection Event [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: Change of Heart[state: deactivated]
-[11.04.21 19:20:02] Loaded Event: null [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: l2day [state: deactivated]
-[11.04.21 19:20:02] Loaded Event: Last Hero
-[11.04.21 19:20:27] Start Viktorina: Mon Apr 12 01:14:00 EEST 2021
-[11.04.21 19:20:27] Stop Viktorina: Mon Apr 12 03:14:00 EEST 2021
-[11.04.21 20:43:47] Viktorina Stoped.
-[11.04.21 20:43:47] Continue Viktorina: Mon Apr 12 01:14:00 EEST 2021|Stop Viktorina: Mon Apr 12 03:14:00 EEST 2021
+[16.04.21 17:57:34] Loaded Event: Apil Fool's Day [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: Christmas [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: Coffer of Shadows [state: deactivated]
+[16.04.21 17:57:34] Loaded 1 configs for Capture The Flag event.
+[16.04.21 17:57:34] Loaded Event: CTF
+[16.04.21 17:57:34] Loaded CustomDropItems: CustomDropItems [state: activated]
+[16.04.21 17:57:34] Loaded Event: Fight Club
+[16.04.21 17:57:34] Loaded Event: Freya Celebration [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: Gift Of Vitality [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: GvG
+[16.04.21 17:57:34] Loaded Event: March 8 [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: Master of Enchanting [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: PcCafePointsExchange [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: SavingSnowman [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: Summer Meleons [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: The Fall Harvest [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: The Flow Of The Horror [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: Trick of Trnasmutation [state: deactivated]
+[16.04.21 17:57:34] Loaded 3 configs for TvT event.
+[16.04.21 17:57:34] Loaded Event: TvT
+[16.04.21 17:57:34] Loaded Event: TvT Arena 1 [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: TvT Arena 2 [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: TvT Arena 3 [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: Viktorina
+[16.04.21 17:57:34] Loaded Event: Bounty Hunters Guild
+[16.04.21 17:57:34] Loaded Event: L2 Medal Collection Event [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: Change of Heart[state: deactivated]
+[16.04.21 17:57:34] Loaded Event: null [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: l2day [state: deactivated]
+[16.04.21 17:57:34] Loaded Event: Last Hero
+[16.04.21 17:57:59] Start Viktorina: Sat Apr 17 01:14:00 EEST 2021
+[16.04.21 17:57:59] Stop Viktorina: Sat Apr 17 03:14:00 EEST 2021
+[16.04.21 20:18:54] Viktorina Stoped.
+[16.04.21 20:18:54] Continue Viktorina: Sat Apr 17 01:14:00 EEST 2021|Stop Viktorina: Sat Apr 17 03:14:00 EEST 2021
