@@ -1,97 +1,417 @@
-[16.04.21 18:11:58] SUCCESS admin[268481667] admin_admin
-[16.04.21 18:11:59] SUCCESS admin[268481667] admin_server admserver.htm
-[16.04.21 18:12:01] SUCCESS admin[268481667] admin_show_html reload.htm
-[16.04.21 18:12:02] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:13:05] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:13:08] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:15:03] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:19:53] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:19:59] SUCCESS admin[268481667] admin_reload_config
-[16.04.21 18:20:09] SUCCESS admin[268481667] admin_reload_shops
-[16.04.21 18:24:02] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:24:05] SUCCESS admin[268481667] admin_reload_htm
-[16.04.21 18:24:06] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:24:10] SUCCESS admin[268481667] admin_reload_shops
-[16.04.21 18:25:05] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:25:08] SUCCESS admin[268481667] admin_reload_shops
-[16.04.21 18:25:25] SUCCESS admin[268481667] admin_reload_shops
-[16.04.21 18:25:28] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:25:45] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:25:53] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:26:25] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:47:32] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:51:51] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:53:03] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:54:25] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:55:48] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:56:22] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 18:57:24] SUCCESS admin[268481667] admin_admin
-[16.04.21 18:57:27] SUCCESS admin[268481667] admin_server admserver.htm
-[16.04.21 18:57:29] SUCCESS admin[268481667] admin_show_html reload.htm
-[16.04.21 18:57:32] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:02:00] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:04:47] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:05:06] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:11:10] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:11:36] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:12:16] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:14:19] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:14:38] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:16:01] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:16:08] SUCCESS admin[268481667] admin_reload_htm
-[16.04.21 19:16:09] SUCCESS admin[268481667] admin_reload_shops
-[16.04.21 19:16:23] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:16:52] SUCCESS admin[268481667] admin_reload_shops
-[16.04.21 19:18:54] SUCCESS admin[268481667] admin_reload_shops
-[16.04.21 19:20:45] SUCCESS admin[268481667] admin_reload_shops
-[16.04.21 19:21:36] SUCCESS admin[268481667] admin_reload_shops
-[16.04.21 19:24:57] SUCCESS admin[268481667] admin_reload_shops
-[16.04.21 19:25:36] SUCCESS admin[268481667] admin_admin
-[16.04.21 19:25:45] SUCCESS admin[268481667] admin_gmshop
-[16.04.21 19:25:48] SUCCESS admin[268481667] admin_show_html gmstore/gear/jewels.htm
-[16.04.21 19:25:50] SUCCESS admin[268481667] admin_buy 9966
-[16.04.21 19:27:01] SUCCESS admin[268481667] admin_admin
-[16.04.21 19:27:05] SUCCESS admin[268481667] admin_itemcreate
-[16.04.21 19:27:12] SUCCESS admin[268481667] admin_create_item 9455 1
-[16.04.21 19:29:03] SUCCESS admin[268481667] admin_admin
-[16.04.21 19:29:03] SUCCESS admin[268481667] admin_server admserver.htm
-[16.04.21 19:29:05] SUCCESS admin[268481667] admin_show_html reload.htm
-[16.04.21 19:29:07] SUCCESS admin[268481667] admin_reload_shops
-[16.04.21 19:29:53] SUCCESS admin[268481667] admin_reload_shops
-[16.04.21 19:30:58] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:31:17] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:34:17] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:34:57] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:35:28] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:36:24] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:37:02] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:38:49] SUCCESS admin[268481667] admin_reload_announcements
-[16.04.21 19:38:51] SUCCESS admin[268481667] admin_admin
-[16.04.21 19:38:52] SUCCESS admin[268481667] admin_server admserver.htm
-[16.04.21 19:38:53] SUCCESS admin[268481667] admin_show_html reload.htm
-[16.04.21 19:38:54] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:40:34] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:54:48] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:55:46] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:56:42] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:57:32] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 19:58:37] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 20:01:39] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 20:03:57] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 20:06:09] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 20:06:59] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 20:07:09] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 20:07:28] SUCCESS admin[268481667] admin_reload_announcements
-[16.04.21 20:07:29] SUCCESS admin[268481667] admin_admin
-[16.04.21 20:07:31] SUCCESS admin[268481667] admin_server admserver.htm
-[16.04.21 20:07:32] SUCCESS admin[268481667] admin_show_html reload.htm
-[16.04.21 20:07:33] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 20:09:06] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 20:10:12] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 20:11:11] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 20:12:32] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 20:14:32] SUCCESS admin[268481667] admin_reload_multisell
-[16.04.21 20:18:21] SUCCESS admin[268481667] admin_admin
-[16.04.21 20:18:37] SUCCESS admin[268481667] admin_server admserver.htm
-[16.04.21 20:18:39] SUCCESS admin[268481667] admin_server_shutdown
-[16.04.21 20:18:44] SUCCESS admin[268481667] admin_server_shutdown 10
+[22.04.21 20:08:02] SUCCESS admin[268481667] admin_admin
+[22.04.21 20:08:04] SUCCESS admin[268481667] admin_char_manage
+[22.04.21 20:08:06] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 20:08:08] SUCCESS admin[268481667] -> VAXIP[268481670] admin_character_list VAXIP
+[22.04.21 20:08:10] SUCCESS admin[268481667] admin_goto_char_menu VAXIP
+[22.04.21 20:08:23] SUCCESS admin[268481667] admin_admin
+[22.04.21 20:08:33] SUCCESS admin[268481667] admin_invis
+[22.04.21 20:09:09] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 20:09:10] SUCCESS admin[268481667] -> VAXIP[268481670] admin_char_manage
+[22.04.21 20:09:11] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_characters 0
+[22.04.21 20:09:12] SUCCESS admin[268481667] -> VAXIP[268481670] admin_character_list VAXIP
+[22.04.21 20:09:14] SUCCESS admin[268481667] -> VAXIP[268481670] admin_add_exp_sp_to_character
+[22.04.21 20:09:21] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setlevel 86
+[22.04.21 20:09:23] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 20:09:24] SUCCESS admin[268481667] -> VAXIP[268481670] admin_char_manage
+[22.04.21 20:09:25] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_characters 0
+[22.04.21 20:09:26] SUCCESS admin[268481667] -> VAXIP[268481670] admin_character_list VAXIP
+[22.04.21 20:09:28] SUCCESS admin[268481667] -> VAXIP[268481670] admin_add_exp_sp_to_character
+[22.04.21 20:09:31] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setlevel 85
+[22.04.21 20:09:34] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 20:09:50] SUCCESS admin[268481667] -> VAXIP[268481670] admin_itemcreate
+[22.04.21 20:09:58] SUCCESS admin[268481667] -> VAXIP[268481670] admin_create_item 57 10000000
+[22.04.21 20:10:11] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 20:10:14] SUCCESS admin[268481667] -> VAXIP[268481670] admin_itemcreate
+[22.04.21 20:10:23] SUCCESS admin[268481667] -> VAXIP[268481670] admin_create_item 57 1000000000
+[22.04.21 20:11:17] SUCCESS admin[268481667] admin_admin
+[22.04.21 20:11:29] SUCCESS admin[268481667] admin_itemcreate
+[22.04.21 20:11:36] SUCCESS admin[268481667] admin_create_item 57 100000000
+[22.04.21 20:13:18] SUCCESS admin[268481667] admin_admin
+[22.04.21 20:13:19] SUCCESS admin[268481667] admin_server admserver.htm
+[22.04.21 20:13:21] SUCCESS admin[268481667] admin_char_manage
+[22.04.21 20:13:22] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 20:13:23] SUCCESS admin[268481667] -> VAXIP[268481670] admin_character_list VAXIP
+[22.04.21 20:13:25] SUCCESS admin[268481667] admin_goto_char_menu VAXIP
+[22.04.21 20:16:46] SUCCESS admin[268481667] admin_admin
+[22.04.21 20:16:49] SUCCESS admin[268481667] admin_char_manage
+[22.04.21 20:16:50] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 20:16:52] SUCCESS admin[268481667] -> 22222[268481884] admin_character_list 22222
+[22.04.21 20:16:56] SUCCESS admin[268481667] -> 22222[268481884] admin_recall_char_menu 22222
+[22.04.21 20:17:41] SUCCESS admin[268481667] -> 22222[268481884] admin_admin
+[22.04.21 20:17:46] SUCCESS admin[268481667] -> 22222[268481884] admin_admin
+[22.04.21 20:17:50] SUCCESS admin[268481667] -> 22222[268481884] admin_itemcreate
+[22.04.21 20:17:58] SUCCESS admin[268481667] -> 22222[268481884] admin_create_item 57 80000000000
+[22.04.21 20:18:25] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 20:18:30] SUCCESS admin[268481667] -> VAXIP[268481670] admin_char_manage
+[22.04.21 20:18:32] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_characters 0
+[22.04.21 20:18:33] SUCCESS admin[268481667] -> VAXIP[268481670] admin_character_list VAXIP
+[22.04.21 20:18:39] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 20:18:41] SUCCESS admin[268481667] -> VAXIP[268481670] admin_enchant
+[22.04.21 20:18:52] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setew 30000
+[22.04.21 20:19:36] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 20:19:38] SUCCESS admin[268481667] -> VAXIP[268481670] admin_gmshop
+[22.04.21 20:19:42] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_html gmstore/gear/jewels.htm
+[22.04.21 20:19:44] SUCCESS admin[268481667] -> VAXIP[268481670] admin_buy 9917
+[22.04.21 20:20:31] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 20:20:33] SUCCESS admin[268481667] -> VAXIP[268481670] admin_gmshop
+[22.04.21 20:20:39] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_html gmstore/gear/jewels.htm
+[22.04.21 20:20:40] SUCCESS admin[268481667] -> VAXIP[268481670] admin_buy 9917
+[22.04.21 20:21:45] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 20:21:56] SUCCESS admin[268481667] -> VAXIP[268481670] admin_char_manage
+[22.04.21 20:21:57] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_characters 0
+[22.04.21 20:21:59] SUCCESS admin[268481667] -> 33333[268481973] admin_character_list 33333
+[22.04.21 20:22:00] SUCCESS admin[268481667] -> 33333[268481973] admin_recall_char_menu 33333
+[22.04.21 20:25:07] SUCCESS admin[268481667] -> 33333[268481973] admin_admin
+[22.04.21 20:25:19] SUCCESS admin[268481667] -> 33333[268481973] admin_char_manage
+[22.04.21 20:25:20] SUCCESS admin[268481667] -> 33333[268481973] admin_show_characters 0
+[22.04.21 20:25:22] SUCCESS admin[268481667] -> 44444[268482027] admin_character_list 44444
+[22.04.21 20:25:25] SUCCESS admin[268481667] -> 44444[268482027] admin_recall_char_menu 44444
+[22.04.21 20:28:21] SUCCESS admin[268481667] -> 44444[268482027] admin_admin
+[22.04.21 20:28:25] SUCCESS admin[268481667] -> 44444[268482027] admin_char_manage
+[22.04.21 20:28:27] SUCCESS admin[268481667] -> 44444[268482027] admin_show_characters 0
+[22.04.21 20:28:30] SUCCESS admin[268481667] -> 55555[268483311] admin_character_list 55555
+[22.04.21 20:28:31] SUCCESS admin[268481667] -> 55555[268483311] admin_recall_char_menu 55555
+[22.04.21 20:31:00] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_characters 0
+[22.04.21 20:31:03] SUCCESS admin[268481667] -> 88888[268483738] admin_character_list 88888
+[22.04.21 20:31:05] SUCCESS admin[268481667] -> 88888[268483738] admin_recall_char_menu 88888
+[22.04.21 20:31:25] SUCCESS admin[268481667] -> 88888[268483738] admin_show_characters 0
+[22.04.21 20:31:28] SUCCESS admin[268481667] -> 77777[268483724] admin_character_list 77777
+[22.04.21 20:31:36] SUCCESS admin[268481667] -> 77777[268483724] admin_recall_char_menu 77777
+[22.04.21 20:31:50] SUCCESS admin[268481667] -> 77777[268483724] admin_show_characters 0
+[22.04.21 20:31:53] SUCCESS admin[268481667] -> 66666[268483332] admin_character_list 66666
+[22.04.21 20:31:58] SUCCESS admin[268481667] -> 66666[268483332] admin_recall_char_menu 66666
+[22.04.21 20:34:16] SUCCESS admin[268481667] admin_admin
+[22.04.21 20:34:20] SUCCESS admin[268481667] admin_show_moves
+[22.04.21 20:34:24] SUCCESS admin[268481667] admin_tonpc 32712
+[22.04.21 20:35:12] SUCCESS admin[268481667] -> 32713 Pathfinder Worker admin_admin
+[22.04.21 20:35:19] SUCCESS admin[268481667] -> 32713 Pathfinder Worker admin_char_manage
+[22.04.21 20:35:21] SUCCESS admin[268481667] -> 32713 Pathfinder Worker admin_show_characters 0
+[22.04.21 20:35:23] SUCCESS admin[268481667] -> 22222[268481884] admin_character_list 22222
+[22.04.21 20:35:24] SUCCESS admin[268481667] -> 22222[268481884] admin_recall_char_menu 22222
+[22.04.21 20:35:27] SUCCESS admin[268481667] -> 22222[268481884] admin_show_characters 0
+[22.04.21 20:35:28] SUCCESS admin[268481667] -> 33333[268481973] admin_character_list 33333
+[22.04.21 20:35:30] SUCCESS admin[268481667] -> 33333[268481973] admin_recall_char_menu 33333
+[22.04.21 20:35:31] SUCCESS admin[268481667] -> 33333[268481973] admin_show_characters 0
+[22.04.21 20:35:33] SUCCESS admin[268481667] -> 44444[268482027] admin_character_list 44444
+[22.04.21 20:35:34] SUCCESS admin[268481667] -> 44444[268482027] admin_recall_char_menu 44444
+[22.04.21 20:35:40] SUCCESS admin[268481667] -> 44444[268482027] admin_char_manage
+[22.04.21 20:35:42] SUCCESS admin[268481667] -> 44444[268482027] admin_show_characters 0
+[22.04.21 20:35:43] SUCCESS admin[268481667] -> 44444[268482027] admin_character_list 44444
+[22.04.21 20:35:44] SUCCESS admin[268481667] admin_recall_char_menu 44444
+[22.04.21 20:35:46] SUCCESS admin[268481667] admin_char_manage
+[22.04.21 20:35:47] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 20:35:48] SUCCESS admin[268481667] -> 55555[268483311] admin_character_list 55555
+[22.04.21 20:35:50] SUCCESS admin[268481667] -> 55555[268483311] admin_recall_char_menu 55555
+[22.04.21 20:35:55] SUCCESS admin[268481667] -> 55555[268483311] admin_show_characters 0
+[22.04.21 20:35:56] SUCCESS admin[268481667] -> 55555[268483311] admin_character_list 55555
+[22.04.21 20:35:58] SUCCESS admin[268481667] admin_recall_char_menu 55555
+[22.04.21 20:35:59] SUCCESS admin[268481667] admin_char_manage
+[22.04.21 20:36:05] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 20:36:07] SUCCESS admin[268481667] -> 66666[268483332] admin_character_list 66666
+[22.04.21 20:36:08] SUCCESS admin[268481667] -> 66666[268483332] admin_recall_char_menu 66666
+[22.04.21 20:36:09] SUCCESS admin[268481667] -> 66666[268483332] admin_char_manage
+[22.04.21 20:36:10] SUCCESS admin[268481667] -> 66666[268483332] admin_show_characters 0
+[22.04.21 20:36:11] SUCCESS admin[268481667] -> 77777[268483724] admin_character_list 77777
+[22.04.21 20:36:12] SUCCESS admin[268481667] -> 77777[268483724] admin_recall_char_menu 77777
+[22.04.21 20:36:14] SUCCESS admin[268481667] -> 77777[268483724] admin_char_manage
+[22.04.21 20:36:16] SUCCESS admin[268481667] -> 77777[268483724] admin_show_characters 0
+[22.04.21 20:36:17] SUCCESS admin[268481667] -> 88888[268483738] admin_character_list 88888
+[22.04.21 20:36:20] SUCCESS admin[268481667] -> 88888[268483738] admin_recall_char_menu 88888
+[22.04.21 20:37:36] SUCCESS admin[268481667] -> 22222[268481884] admin_admin
+[22.04.21 20:37:45] SUCCESS admin[268481667] -> 22222[268481884] admin_char_manage
+[22.04.21 20:37:47] SUCCESS admin[268481667] -> 22222[268481884] admin_show_characters 0
+[22.04.21 20:37:49] SUCCESS admin[268481667] -> 22222[268481884] admin_character_list 22222
+[22.04.21 20:37:52] SUCCESS admin[268481667] -> 22222[268481884] admin_add_exp_sp_to_character
+[22.04.21 20:37:59] SUCCESS admin[268481667] -> 22222[268481884] admin_setlevel 79
+[22.04.21 20:38:03] SUCCESS admin[268481667] -> 22222[268481884] admin_admin
+[22.04.21 20:38:05] SUCCESS admin[268481667] -> 22222[268481884] admin_char_manage
+[22.04.21 20:38:06] SUCCESS admin[268481667] -> 22222[268481884] admin_show_characters 0
+[22.04.21 20:38:09] SUCCESS admin[268481667] -> 22222[268481884] admin_character_list 22222
+[22.04.21 20:38:11] SUCCESS admin[268481667] -> 22222[268481884] admin_add_exp_sp_to_character
+[22.04.21 20:38:13] SUCCESS admin[268481667] -> 22222[268481884] admin_setlevel 79
+[22.04.21 20:38:25] SUCCESS admin[268481667] -> 22222[268481884] admin_admin
+[22.04.21 20:38:28] SUCCESS admin[268481667] -> 22222[268481884] admin_char_manage
+[22.04.21 20:38:30] SUCCESS admin[268481667] -> 22222[268481884] admin_show_characters 0
+[22.04.21 20:38:32] SUCCESS admin[268481667] -> 33333[268481973] admin_character_list 33333
+[22.04.21 20:38:34] SUCCESS admin[268481667] -> 33333[268481973] admin_add_exp_sp_to_character
+[22.04.21 20:38:37] SUCCESS admin[268481667] -> 33333[268481973] admin_setlevel 79
+[22.04.21 20:38:41] SUCCESS admin[268481667] -> 44444[268482027] admin_admin
+[22.04.21 20:38:44] SUCCESS admin[268481667] -> 44444[268482027] admin_char_manage
+[22.04.21 20:38:45] SUCCESS admin[268481667] -> 44444[268482027] admin_show_characters 0
+[22.04.21 20:38:48] SUCCESS admin[268481667] -> 44444[268482027] admin_character_list 44444
+[22.04.21 20:38:49] SUCCESS admin[268481667] -> 44444[268482027] admin_add_exp_sp_to_character
+[22.04.21 20:38:52] SUCCESS admin[268481667] -> 44444[268482027] admin_setlevel 79
+[22.04.21 20:38:55] SUCCESS admin[268481667] -> 55555[268483311] admin_admin
+[22.04.21 20:38:56] SUCCESS admin[268481667] -> 55555[268483311] admin_char_manage
+[22.04.21 20:38:56] SUCCESS admin[268481667] -> 55555[268483311] admin_show_characters 0
+[22.04.21 20:38:58] SUCCESS admin[268481667] -> 55555[268483311] admin_character_list 55555
+[22.04.21 20:38:59] SUCCESS admin[268481667] -> 55555[268483311] admin_add_exp_sp_to_character
+[22.04.21 20:39:02] SUCCESS admin[268481667] -> 55555[268483311] admin_setlevel 79
+[22.04.21 20:39:04] SUCCESS admin[268481667] -> 66666[268483332] admin_admin
+[22.04.21 20:39:05] SUCCESS admin[268481667] -> 66666[268483332] admin_char_manage
+[22.04.21 20:39:06] SUCCESS admin[268481667] -> 66666[268483332] admin_show_characters 0
+[22.04.21 20:39:11] SUCCESS admin[268481667] -> 55555[268483311] admin_character_list 55555
+[22.04.21 20:39:12] SUCCESS admin[268481667] -> 55555[268483311] admin_add_exp_sp_to_character
+[22.04.21 20:39:14] SUCCESS admin[268481667] -> 55555[268483311] admin_setlevel 79
+[22.04.21 20:39:17] SUCCESS admin[268481667] -> 66666[268483332] admin_admin
+[22.04.21 20:39:18] SUCCESS admin[268481667] -> 66666[268483332] admin_char_manage
+[22.04.21 20:39:19] SUCCESS admin[268481667] -> 66666[268483332] admin_show_characters 0
+[22.04.21 20:39:21] SUCCESS admin[268481667] -> 66666[268483332] admin_character_list 66666
+[22.04.21 20:39:23] SUCCESS admin[268481667] -> 66666[268483332] admin_add_exp_sp_to_character
+[22.04.21 20:39:26] SUCCESS admin[268481667] -> 66666[268483332] admin_setlevel 79
+[22.04.21 20:39:27] SUCCESS admin[268481667] -> 66666[268483332] admin_admin
+[22.04.21 20:39:28] SUCCESS admin[268481667] -> 66666[268483332] admin_char_manage
+[22.04.21 20:39:30] SUCCESS admin[268481667] -> 66666[268483332] admin_show_characters 0
+[22.04.21 20:39:32] SUCCESS admin[268481667] -> 77777[268483724] admin_character_list 77777
+[22.04.21 20:39:33] SUCCESS admin[268481667] -> 77777[268483724] admin_add_exp_sp_to_character
+[22.04.21 20:39:35] SUCCESS admin[268481667] -> 77777[268483724] admin_setlevel 79
+[22.04.21 20:39:39] SUCCESS admin[268481667] -> 77777[268483724] admin_admin
+[22.04.21 20:39:42] SUCCESS admin[268481667] -> 77777[268483724] admin_char_manage
+[22.04.21 20:39:44] SUCCESS admin[268481667] -> 77777[268483724] admin_show_characters 0
+[22.04.21 20:39:45] SUCCESS admin[268481667] -> 88888[268483738] admin_character_list 88888
+[22.04.21 20:39:46] SUCCESS admin[268481667] -> 88888[268483738] admin_add_exp_sp_to_character
+[22.04.21 20:39:51] SUCCESS admin[268481667] -> 88888[268483738] admin_setlevel 79
+[22.04.21 20:46:13] SUCCESS admin[268481667] admin_admin
+[22.04.21 20:46:15] SUCCESS admin[268481667] admin_show_moves
+[22.04.21 20:46:16] SUCCESS admin[268481667] admin_show_html teleports/town.htm
+[22.04.21 20:46:17] SUCCESS admin[268481667] admin_show_html teleports/town/giran.htm
+[22.04.21 20:46:17] SUCCESS admin[268481667] admin_move_to 82698 148638 -3473
+[22.04.21 20:46:29] SUCCESS admin[268481667] -> admin[268481667] admin_admin
+[22.04.21 20:46:41] SUCCESS admin[268481667] -> admin[268481667] admin_admin
+[22.04.21 20:46:45] SUCCESS admin[268481667] -> admin[268481667] admin_show_moves
+[22.04.21 20:46:56] SUCCESS admin[268481667] admin_tonpc 32712
+[22.04.21 20:47:18] SUCCESS admin[268481667] admin_admin
+[22.04.21 20:47:19] SUCCESS admin[268481667] admin_char_manage
+[22.04.21 20:47:21] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 20:47:22] SUCCESS admin[268481667] -> VAXIP[268481670] admin_character_list VAXIP
+[22.04.21 20:47:23] SUCCESS admin[268481667] -> VAXIP[268481670] admin_recall_char_menu VAXIP
+[22.04.21 20:49:42] SUCCESS admin[268481667] admin_admin
+[22.04.21 20:49:44] SUCCESS admin[268481667] admin_char_manage
+[22.04.21 20:49:45] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 20:49:46] SUCCESS admin[268481667] -> 22222[268481884] admin_character_list 22222
+[22.04.21 20:49:48] SUCCESS admin[268481667] admin_goto_char_menu 22222
+[22.04.21 20:50:18] SUCCESS admin[268481667] admin_admin
+[22.04.21 20:50:22] SUCCESS admin[268481667] admin_invis
+[22.04.21 20:53:44] SUCCESS admin[268481667] admin_admin
+[22.04.21 20:53:48] SUCCESS admin[268481667] admin_char_manage
+[22.04.21 20:53:49] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 20:53:53] SUCCESS admin[268481667] -> 22222[268481884] admin_character_list 22222
+[22.04.21 20:53:55] SUCCESS admin[268481667] -> 22222[268481884] admin_recall_char_menu 22222
+[22.04.21 20:53:58] SUCCESS admin[268481667] -> 22222[268481884] admin_char_manage
+[22.04.21 20:53:59] SUCCESS admin[268481667] -> 22222[268481884] admin_show_characters 0
+[22.04.21 20:54:00] SUCCESS admin[268481667] -> 33333[268481973] admin_character_list 33333
+[22.04.21 20:54:02] SUCCESS admin[268481667] -> 33333[268481973] admin_recall_char_menu 33333
+[22.04.21 20:54:04] SUCCESS admin[268481667] -> 33333[268481973] admin_char_manage
+[22.04.21 20:54:04] SUCCESS admin[268481667] -> 33333[268481973] admin_show_characters 0
+[22.04.21 20:54:07] SUCCESS admin[268481667] -> 44444[268482027] admin_character_list 44444
+[22.04.21 20:54:09] SUCCESS admin[268481667] -> 44444[268482027] admin_recall_char_menu 44444
+[22.04.21 20:54:10] SUCCESS admin[268481667] -> 44444[268482027] admin_show_characters 0
+[22.04.21 20:54:12] SUCCESS admin[268481667] -> 44444[268482027] admin_character_list 44444
+[22.04.21 20:54:15] SUCCESS admin[268481667] admin_recall_char_menu 44444
+[22.04.21 20:54:16] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 20:54:18] SUCCESS admin[268481667] -> 55555[268483311] admin_character_list 55555
+[22.04.21 20:54:19] SUCCESS admin[268481667] -> 55555[268483311] admin_recall_char_menu 55555
+[22.04.21 20:54:23] SUCCESS admin[268481667] -> 55555[268483311] admin_show_characters 0
+[22.04.21 20:54:24] SUCCESS admin[268481667] -> 55555[268483311] admin_character_list 55555
+[22.04.21 20:54:27] SUCCESS admin[268481667] admin_recall_char_menu 55555
+[22.04.21 20:54:28] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 20:54:29] SUCCESS admin[268481667] -> 66666[268483332] admin_character_list 66666
+[22.04.21 20:54:31] SUCCESS admin[268481667] -> 66666[268483332] admin_recall_char_menu 66666
+[22.04.21 20:54:33] SUCCESS admin[268481667] -> 66666[268483332] admin_show_characters 0
+[22.04.21 20:54:35] SUCCESS admin[268481667] -> 77777[268483724] admin_character_list 77777
+[22.04.21 20:54:38] SUCCESS admin[268481667] -> 77777[268483724] admin_recall_char_menu 77777
+[22.04.21 20:54:40] SUCCESS admin[268481667] -> 77777[268483724] admin_show_characters 0
+[22.04.21 20:54:41] SUCCESS admin[268481667] -> 88888[268483738] admin_character_list 88888
+[22.04.21 20:54:43] SUCCESS admin[268481667] -> 88888[268483738] admin_recall_char_menu 88888
+[22.04.21 21:13:08] SUCCESS admin[268481667] admin_admin
+[22.04.21 21:13:12] SUCCESS admin[268481667] admin_show_moves
+[22.04.21 21:13:17] SUCCESS admin[268481667] admin_tonpc 22371
+[22.04.21 21:13:57] SUCCESS admin[268481667] -> 22370 Passageway Captain admin_admin
+[22.04.21 21:14:02] SUCCESS admin[268481667] -> 22370 Passageway Captain admin_show_moves
+[22.04.21 21:14:05] SUCCESS admin[268481667] admin_tonpc 31540
+[22.04.21 21:14:14] SUCCESS admin[268481667] admin_admin
+[22.04.21 21:14:15] SUCCESS admin[268481667] admin_char_manage
+[22.04.21 21:14:16] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 21:14:17] SUCCESS admin[268481667] -> VAXIP[268481670] admin_character_list VAXIP
+[22.04.21 21:14:19] SUCCESS admin[268481667] -> VAXIP[268481670] admin_recall_char_menu VAXIP
+[22.04.21 21:14:43] SUCCESS admin[268481667] -> VAXIP[268481670] admin_char_manage
+[22.04.21 21:14:44] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_characters 0
+[22.04.21 21:14:45] SUCCESS admin[268481667] -> 22222[268481884] admin_character_list 22222
+[22.04.21 21:14:47] SUCCESS admin[268481667] -> 22222[268481884] admin_recall_char_menu 22222
+[22.04.21 21:14:49] SUCCESS admin[268481667] -> 22222[268481884] admin_show_characters 0
+[22.04.21 21:14:50] SUCCESS admin[268481667] -> 33333[268481973] admin_character_list 33333
+[22.04.21 21:14:52] SUCCESS admin[268481667] -> 33333[268481973] admin_recall_char_menu 33333
+[22.04.21 21:14:55] SUCCESS admin[268481667] -> 33333[268481973] admin_show_characters 0
+[22.04.21 21:14:57] SUCCESS admin[268481667] -> 44444[268482027] admin_character_list 44444
+[22.04.21 21:14:58] SUCCESS admin[268481667] -> 44444[268482027] admin_recall_char_menu 44444
+[22.04.21 21:15:00] SUCCESS admin[268481667] -> 44444[268482027] admin_show_characters 0
+[22.04.21 21:15:01] SUCCESS admin[268481667] -> 55555[268483311] admin_character_list 55555
+[22.04.21 21:15:03] SUCCESS admin[268481667] -> 55555[268483311] admin_recall_char_menu 55555
+[22.04.21 21:15:06] SUCCESS admin[268481667] -> 55555[268483311] admin_char_manage
+[22.04.21 21:15:07] SUCCESS admin[268481667] -> 55555[268483311] admin_show_characters 0
+[22.04.21 21:15:08] SUCCESS admin[268481667] -> 66666[268483332] admin_character_list 66666
+[22.04.21 21:15:09] SUCCESS admin[268481667] -> 66666[268483332] admin_recall_char_menu 66666
+[22.04.21 21:15:10] SUCCESS admin[268481667] -> 66666[268483332] admin_show_characters 0
+[22.04.21 21:15:11] SUCCESS admin[268481667] -> 77777[268483724] admin_character_list 77777
+[22.04.21 21:15:12] SUCCESS admin[268481667] -> 77777[268483724] admin_recall_char_menu 77777
+[22.04.21 21:15:14] SUCCESS admin[268481667] -> 77777[268483724] admin_show_characters 0
+[22.04.21 21:15:15] SUCCESS admin[268481667] -> 88888[268483738] admin_character_list 88888
+[22.04.21 21:15:16] SUCCESS admin[268481667] -> 88888[268483738] admin_recall_char_menu 88888
+[22.04.21 21:18:43] SUCCESS admin[268481667] admin_admin
+[22.04.21 21:18:45] SUCCESS admin[268481667] admin_gmshop
+[22.04.21 21:18:56] SUCCESS admin[268481667] admin_show_html gmstore/quest.htm
+[22.04.21 21:18:57] SUCCESS admin[268481667] admin_buy 300539
+[22.04.21 21:19:07] SUCCESS admin[268481667] admin_admin
+[22.04.21 21:19:09] SUCCESS admin[268481667] admin_gmshop
+[22.04.21 21:19:11] SUCCESS admin[268481667] admin_show_html gmstore/quest.htm
+[22.04.21 21:19:12] SUCCESS admin[268481667] admin_buy 300530
+[22.04.21 21:19:37] SUCCESS admin[268481667] admin_admin
+[22.04.21 21:19:39] SUCCESS admin[268481667] admin_char_manage
+[22.04.21 21:19:41] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 21:19:42] SUCCESS admin[268481667] -> VAXIP[268481670] admin_character_list VAXIP
+[22.04.21 21:19:43] SUCCESS admin[268481667] admin_goto_char_menu VAXIP
+[22.04.21 21:20:31] SUCCESS admin[268481667] admin_admin
+[22.04.21 21:20:37] SUCCESS admin[268481667] admin_gmshop
+[22.04.21 21:20:38] SUCCESS admin[268481667] admin_show_html gmstore/quest.htm
+[22.04.21 21:20:39] SUCCESS admin[268481667] admin_buy 300530
+[22.04.21 21:26:08] SUCCESS admin[268481667] -> 31385 Heart of Volcano admin_admin
+[22.04.21 21:26:22] SUCCESS admin[268481667] -> 31385 Heart of Volcano admin_char_manage
+[22.04.21 21:26:24] SUCCESS admin[268481667] -> 31385 Heart of Volcano admin_show_characters 0
+[22.04.21 21:26:26] SUCCESS admin[268481667] -> 22222[268481884] admin_character_list 22222
+[22.04.21 21:26:28] SUCCESS admin[268481667] -> 22222[268481884] admin_show_characters 0
+[22.04.21 21:26:29] SUCCESS admin[268481667] -> 33333[268481973] admin_character_list 33333
+[22.04.21 21:26:30] SUCCESS admin[268481667] -> 33333[268481973] admin_recall_char_menu 33333
+[22.04.21 21:26:57] SUCCESS admin[268481667] -> 33333[268481973] admin_admin
+[22.04.21 21:26:59] SUCCESS admin[268481667] -> 33333[268481973] admin_char_manage
+[22.04.21 21:27:00] SUCCESS admin[268481667] -> 33333[268481973] admin_show_characters 0
+[22.04.21 21:27:03] SUCCESS admin[268481667] -> 44444[268482027] admin_character_list 44444
+[22.04.21 21:27:05] SUCCESS admin[268481667] -> 44444[268482027] admin_recall_char_menu 44444
+[22.04.21 21:28:02] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 21:28:07] SUCCESS admin[268481667] -> VAXIP[268481670] admin_enchant
+[22.04.21 21:28:13] SUCCESS admin[268481667] -> VAXIP[268481670] admin_seteh 8
+[22.04.21 21:28:16] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setba 8
+[22.04.21 21:28:18] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setha 8
+[22.04.21 21:28:20] SUCCESS admin[268481667] -> VAXIP[268481670] admin_seten 8
+[22.04.21 21:28:25] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setec 8
+[22.04.21 21:28:27] SUCCESS admin[268481667] -> VAXIP[268481670] admin_seteb 8
+[22.04.21 21:28:29] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setel 8
+[22.04.21 21:28:31] SUCCESS admin[268481667] -> VAXIP[268481670] admin_seteg 8
+[22.04.21 21:28:33] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setdha 8
+[22.04.21 21:28:34] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setrbr 8
+[22.04.21 21:28:37] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setbelt 8
+[22.04.21 21:28:54] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 21:28:59] SUCCESS admin[268481667] -> VAXIP[268481670] admin_invul
+[22.04.21 21:29:05] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 21:30:06] SUCCESS admin[268481667] -> admin[268481667] admin_admin
+[22.04.21 21:30:07] SUCCESS admin[268481667] -> admin[268481667] admin_gmshop
+[22.04.21 21:30:12] SUCCESS admin[268481667] -> admin[268481667] admin_show_html gmstore/gear/jewels.htm
+[22.04.21 21:30:13] SUCCESS admin[268481667] -> admin[268481667] admin_buy 9917
+[22.04.21 21:30:46] SUCCESS admin[268481667] -> admin[268481667] admin_admin
+[22.04.21 21:30:50] SUCCESS admin[268481667] -> admin[268481667] admin_enchant
+[22.04.21 21:30:53] SUCCESS admin[268481667] -> admin[268481667] admin_seteh 8
+[22.04.21 21:30:58] SUCCESS admin[268481667] -> admin[268481667] admin_setec 8
+[22.04.21 21:31:01] SUCCESS admin[268481667] -> admin[268481667] admin_seteb 8
+[22.04.21 21:31:03] SUCCESS admin[268481667] -> admin[268481667] admin_setel 8
+[22.04.21 21:31:06] SUCCESS admin[268481667] -> admin[268481667] admin_seteg 8
+[22.04.21 21:31:10] SUCCESS admin[268481667] -> VAXIP[268481670] admin_seteg 8
+[22.04.21 21:31:41] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 21:31:44] SUCCESS admin[268481667] -> VAXIP[268481670] admin_enchant
+[22.04.21 21:31:46] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setew
+[22.04.21 21:31:53] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setew 15
+[22.04.21 21:32:00] SUCCESS admin[268481667] -> admin[268481667] admin_setew 15
+[22.04.21 21:35:55] SUCCESS admin[268481667] admin_admin
+[22.04.21 21:35:58] SUCCESS admin[268481667] -> VAXIP[268481670] admin_enchant
+[22.04.21 21:36:13] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setre 8
+[22.04.21 21:36:18] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setle 8
+[22.04.21 21:36:23] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setrf 8
+[22.04.21 21:36:26] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setlf 8
+[22.04.21 21:36:33] SUCCESS admin[268481667] -> VAXIP[268481670] admin_seten 8
+[22.04.21 21:36:35] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 21:36:40] SUCCESS admin[268481667] -> VAXIP[268481670] admin_gmshop
+[22.04.21 21:36:48] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_html gmstore/consumables.htm
+[22.04.21 21:36:55] SUCCESS admin[268481667] -> VAXIP[268481670] admin_buy 9978
+[22.04.21 21:37:00] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 21:37:01] SUCCESS admin[268481667] -> VAXIP[268481670] admin_gmshop
+[22.04.21 21:37:10] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_html gmstore/craft.htm
+[22.04.21 21:37:16] SUCCESS admin[268481667] -> VAXIP[268481670] admin_buy 9969
+[22.04.21 21:37:21] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 21:37:23] SUCCESS admin[268481667] -> VAXIP[268481670] admin_gmshop
+[22.04.21 21:37:25] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_html gmstore/scrolls.htm
+[22.04.21 21:37:29] SUCCESS admin[268481667] -> VAXIP[268481670] admin_buy 9931
+[22.04.21 21:37:40] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 21:37:43] SUCCESS admin[268481667] -> VAXIP[268481670] admin_gmshop
+[22.04.21 21:38:38] SUCCESS admin[268481667] admin_admin
+[22.04.21 21:38:53] SUCCESS admin[268481667] admin_invul
+[22.04.21 21:40:23] SUCCESS admin[268481667] -> 29028 Valakas admin_admin
+[22.04.21 21:40:26] SUCCESS admin[268481667] -> 29028 Valakas admin_invis
+[22.04.21 21:41:28] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 21:41:29] SUCCESS admin[268481667] -> VAXIP[268481670] admin_char_manage
+[22.04.21 21:41:31] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_characters 0
+[22.04.21 21:41:32] SUCCESS admin[268481667] -> VAXIP[268481670] admin_character_list VAXIP
+[22.04.21 21:41:33] SUCCESS admin[268481667] admin_goto_char_menu VAXIP
+[22.04.21 21:43:26] SUCCESS admin[268481667] -> 29028 Valakas admin_admin
+[22.04.21 21:43:40] SUCCESS admin[268481667] -> VAXIP[268481670] admin_enchant
+[22.04.21 21:43:49] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setec 65000
+[22.04.21 21:43:52] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setew
+[22.04.21 21:43:58] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setew 65000
+[22.04.21 21:44:01] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setle
+[22.04.21 21:44:05] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setle 65000
+[22.04.21 21:44:09] SUCCESS admin[268481667] -> VAXIP[268481670] admin_seten 65000
+[22.04.21 21:44:13] SUCCESS admin[268481667] -> VAXIP[268481670] admin_seteg 65000
+[22.04.21 21:44:16] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 21:44:21] SUCCESS admin[268481667] -> VAXIP[268481670] admin_char_manage
+[22.04.21 21:44:23] SUCCESS admin[268481667] -> VAXIP[268481670] admin_show_characters 0
+[22.04.21 21:44:24] SUCCESS admin[268481667] admin_character_list VAXIP
+[22.04.21 21:44:26] SUCCESS admin[268481667] admin_recall_char_menu VAXIP
+[22.04.21 21:45:21] SUCCESS admin[268481667] -> 29028 Valakas admin_admin
+[22.04.21 21:45:25] SUCCESS admin[268481667] -> 29028 Valakas admin_enchant
+[22.04.21 21:45:29] SUCCESS admin[268481667] -> 29028 Valakas admin_setew 65000
+[22.04.21 21:45:31] SUCCESS admin[268481667] -> 29028 Valakas admin_setec
+[22.04.21 21:45:34] SUCCESS admin[268481667] -> 29028 Valakas admin_setec 65000
+[22.04.21 21:45:38] SUCCESS admin[268481667] -> 29028 Valakas admin_setle 65000
+[22.04.21 21:45:41] SUCCESS admin[268481667] -> 29028 Valakas admin_seten 65000
+[22.04.21 21:45:43] SUCCESS admin[268481667] -> 29028 Valakas admin_admin
+[22.04.21 21:45:46] SUCCESS admin[268481667] -> 29028 Valakas admin_invis
+[22.04.21 21:45:47] SUCCESS admin[268481667] -> 29028 Valakas admin_admin
+[22.04.21 21:45:48] SUCCESS admin[268481667] -> 29028 Valakas admin_invul
+[22.04.21 21:46:43] SUCCESS admin[268481667] admin_admin
+[22.04.21 21:46:46] SUCCESS admin[268481667] -> admin[268481667] admin_enchant
+[22.04.21 21:46:49] SUCCESS admin[268481667] -> admin[268481667] admin_setec 65000
+[22.04.21 21:46:54] SUCCESS admin[268481667] -> admin[268481667] admin_seten 65000
+[22.04.21 21:46:57] SUCCESS admin[268481667] -> admin[268481667] admin_setlf 65000
+[22.04.21 21:47:00] SUCCESS admin[268481667] -> admin[268481667] admin_setrf 65000
+[22.04.21 21:47:04] SUCCESS admin[268481667] -> admin[268481667] admin_setel 65000
+[22.04.21 21:47:07] SUCCESS admin[268481667] -> admin[268481667] admin_setel 65000
+[22.04.21 21:47:11] SUCCESS admin[268481667] -> admin[268481667] admin_seteg 65000
+[22.04.21 21:47:15] SUCCESS admin[268481667] -> admin[268481667] admin_seteh 65000
+[22.04.21 21:47:28] SUCCESS admin[268481667] -> admin[268481667] admin_admin
+[22.04.21 21:47:32] SUCCESS admin[268481667] -> admin[268481667] admin_char_manage
+[22.04.21 21:47:34] SUCCESS admin[268481667] -> admin[268481667] admin_show_characters 0
+[22.04.21 21:47:35] SUCCESS admin[268481667] -> VAXIP[268481670] admin_character_list VAXIP
+[22.04.21 21:47:37] SUCCESS admin[268481667] admin_goto_char_menu VAXIP
+[22.04.21 21:48:00] SUCCESS admin[268481667] -> 29029 Elderly Lavasaurus admin_admin
+[22.04.21 21:48:04] SUCCESS admin[268481667] -> admin[268481667] admin_enchant
+[22.04.21 21:48:09] SUCCESS admin[268481667] -> admin[268481667] admin_setew 65000
+[22.04.21 21:49:30] SUCCESS admin[268481667] -> 29028 Valakas admin_admin
+[22.04.21 21:49:32] SUCCESS admin[268481667] -> 29028 Valakas admin_kill
+[22.04.21 21:51:25] SUCCESS admin[268481667] -> VAXIP[268481670] admin_admin
+[22.04.21 21:51:30] SUCCESS admin[268481667] -> VAXIP[268481670] admin_enchant
+[22.04.21 21:51:41] SUCCESS admin[268481667] -> VAXIP[268481670] admin_setew 65000
+[22.04.21 22:00:28] SUCCESS admin[268481667] admin_admin
+[22.04.21 22:00:33] SUCCESS admin[268481667] admin_server admserver.htm
+[22.04.21 22:00:36] SUCCESS admin[268481667] admin_show_html reload.htm
+[22.04.21 22:00:38] SUCCESS admin[268481667] admin_reload_multisell
+[22.04.21 22:02:46] SUCCESS admin[268481667] admin_admin
+[22.04.21 22:02:48] SUCCESS admin[268481667] admin_server admserver.htm
+[22.04.21 22:02:49] SUCCESS admin[268481667] admin_server_shutdown
+[22.04.21 22:02:53] SUCCESS admin[268481667] admin_admin
+[22.04.21 22:02:54] SUCCESS admin[268481667] admin_char_manage
+[22.04.21 22:02:55] SUCCESS admin[268481667] admin_show_characters 0
+[22.04.21 22:02:58] SUCCESS admin[268481667] admin_admin
+[22.04.21 22:02:59] SUCCESS admin[268481667] admin_server admserver.htm
+[22.04.21 22:03:00] SUCCESS admin[268481667] admin_server_shutdown
+[22.04.21 22:03:03] SUCCESS admin[268481667] admin_admin
+[22.04.21 22:03:04] SUCCESS admin[268481667] admin_server admserver.htm
+[22.04.21 22:03:05] SUCCESS admin[268481667] admin_server_shutdown
+[22.04.21 22:03:06] SUCCESS admin[268481667] admin_server_shutdown
+[22.04.21 22:03:10] SUCCESS admin[268481667] admin_server_shutdown 20

@@ -1,11 +1,11 @@
-[16.04.21 17:57:09:362]  INFO loginserver.Config: Loaded 127 server names
-[16.04.21 17:57:09:519]  INFO loginserver.Config: Loaded whirlpool2 as default crypt.
-[16.04.21 17:57:09:943]  INFO loginserver.Config: Cached 10 KeyPairs for RSA communication
-[16.04.21 17:57:09:985]  INFO loginserver.Config: Stored 20 keys for Blowfish communication
-[16.04.21 17:57:10:004]  INFO loginserver.GameServerManager: Loaded 1 registered GameServer(s).
-[16.04.21 17:57:10:033]  INFO loginserver.AuthServer: Listening for gameservers on 192.168.0.100:9014
-[16.04.21 17:57:10:033]  INFO loginserver.AuthServer: Listening for clients on *:2106
-[16.04.21 17:57:38:979]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [192.168.0.100]
-[16.04.21 17:57:38:980]  INFO gspackets.AuthRequest: Gameserver registration successful.
-[16.04.21 20:18:54:435]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
-[16.04.21 20:18:54:437]  INFO gameservercon.GameServerConnection: Setting gameserver down.
+[22.04.21 19:26:18:720]  INFO loginserver.Config: Loaded 127 server names
+[22.04.21 19:26:18:939]  INFO loginserver.Config: Loaded whirlpool2 as default crypt.
+[22.04.21 19:26:19:367]  INFO loginserver.Config: Cached 10 KeyPairs for RSA communication
+[22.04.21 19:26:19:412]  INFO loginserver.Config: Stored 20 keys for Blowfish communication
+[22.04.21 19:26:19:431]  INFO loginserver.GameServerManager: Loaded 1 registered GameServer(s).
+[22.04.21 19:26:19:461]  INFO loginserver.AuthServer: Listening for gameservers on 192.168.0.100:9014
+[22.04.21 19:26:19:462]  INFO loginserver.AuthServer: Listening for clients on *:2106
+[22.04.21 19:26:44:392]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [192.168.0.100]
+[22.04.21 19:26:44:394]  INFO gspackets.AuthRequest: Gameserver registration successful.
+[22.04.21 22:03:30:254]  INFO gameservercon.GameServerConnection: Connection with gameserver 1 [Bartz] lost.
+[22.04.21 22:03:30:258]  INFO gameservercon.GameServerConnection: Setting gameserver down.
